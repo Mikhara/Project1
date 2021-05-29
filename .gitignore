@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Cardiff NLP
+cardiffnlp/models/cifar10_gradcam.h5
