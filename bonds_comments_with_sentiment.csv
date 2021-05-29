@@ -1,0 +1,1017 @@
+,Unnamed: 0,comment,negative,neutral,positive,score,type
+0,0.0,Tdameritrade has some info on bonds but in my experience the finra/Morningstar websites have more info,0.028455768,0.8798004,0.091743894,1.0,0.0
+1,1.0,"Hey guys was just wondering what websites you guys use to find database for bonds around the world.
+I know of only Finra's bond database and that is also limited.
+I am aware of Bloomberg Terminal's database but I do not have access to that",0.43234056,0.513586,0.054073524,2.0,1.0
+2,0.0,How Pensioner Bonds Benefit People Approaching Retirement?,0.0695614,0.883541,0.046897616,1.0,2.0
+3,0.0,Is The Shape Of The U.S. Treasury Yield Curve Warning That A Recession May Be Imminent?,0.29571745,0.6831022,0.021180348,1.0,2.0
+4,0.0,"As somehow pretty ignorant about this stuff, why would someone buy Greek debt when you can get a higher yield with comparable US debt? Is it basically Europeans afraid of the currency risk and expecting the dollar to fall further against the euro? Because you'd need some crazy dollar fall for Greek debt to be better.
+
+Thank you for the post. Some fascinating stuff. ",0.4201472,0.42156106,0.15829162,2.0,0.0
+5,1.0,I don't believe this. Can we bet against this somehow?,0.82641035,0.16685459,0.0067349984,1.0,0.0
+6,2.0,"2-Year Yields, June 2015... Greece: 33.91% US: 0.62% 2-Year Yields, Today... Greece: 1.27% US: 2.07% There is no impossible in markets.",0.09886475,0.83802396,0.0631113,8.0,2.0
+7,0.0,"When you are talking about High Yield, are you thinking bonds that pay a high coupon or bonds that are rated below BBB-/Baa3?  
+- The chase for yield is a global issue but a relative concept. If you are a Japanese investor 3% is high yield for you, but not in Australia, so at which level do you define high yield?  
+- It's a supply/demand issue as well. There is a lot of cash chasing the same bonds, so limited supply, a lot of demand, which is contributing to spread compression, contributing to returns. Carry is a thing.  Cost of missing out on Carry when you are benchmarked can be quite big.  
+- One of the ratings criteria to be Investment Grade is size, for a few Industries, Moody's and S&P are requiring a minimum size before a company can be IG. So you can have a company with good cash flow ratios but not meeting all the IG requirements, so stuck artificially in the HY space (Fresenius used to be like that). Being in the healthcare sector, highly cash flow generative but too small to be IG, even if treasuries went up, most of their bonds being with fixed coupon, I have no issue with them being HY. HY is very name specific and not all have duration risk or the same interest rate sensitivity.  
+
+
+I wouldn't be ""bullish"" on high yield, but I would be more cautious on putting every bond in the same basket, as I said it's very name specific.",0.3424484,0.57244676,0.08510491,4.0,0.0
+8,1.0,"Personally, I've no interest in junk bonds. They are appropriately named.
+
+
+I think you've answered your own question in the OP. They seem to have the worst of both worlds. I'd be interested to see any arguments in their favor, but I imagine they would fall short.",0.7034994,0.26525652,0.031244144,2.0,0.0
+9,2.0,"If we keep searching for yield, junk will be one of the last places we can find it? I'm not too familoar with the stuff, is there a way to look at historical default rates of it during the dot com and great recession?",0.49797815,0.4598739,0.04214799,1.0,0.0
+10,3.0,"As a whole, no. Junk bonds are much more volatile and sometimes you find a good deal where effective yield is OK for the risk and additional capital appreciation is an added kicker.
+
+",0.117772706,0.5973367,0.28489065,1.0,0.0
+11,4.0,"I've heard a lot of negative stories for high yield bonds lately. If stocks up, the economy is hot, inflation goes up, and all bonds do poorly. If stocks go down, all risk assets go down, and high yield falls while investment grade and treasuries outperform. Tax deductibility of interest is being limited, which should be bad for junk. Morgan Stanley just told all their clients to sell all their junk bonds. Calpers dumped heir whole position. The charts look awful right now. 
+The bull arguments for treasuries make sense to me - continued low inflation, inversion of the yield curve, possible sell off in stocks. 
+So what are some positives for junk? Anyone have good arguments why high yield bonds should go up?
+",0.5895927,0.34510785,0.065299384,6.0,1.0
+12,5.0,Bullish arguments for high yield?,0.25739053,0.7121845,0.030424967,6.0,2.0
+13,0.0,Just got a letter with interest on my bonds for tax purposes- wasn't aware I had any bonds.,0.3811221,0.589732,0.029145904,2.0,2.0
+14,0.0,"Hi all,
+For a BBB rating, what have the defaults been over time? Also, if a bond defaults, can they continue paying coupons at the next date?",0.15472089,0.82361335,0.0216658,2.0,1.0
+15,1.0,"Defaults, meaning and amount for below investment grades",0.53697056,0.45010397,0.012925469,2.0,2.0
+16,0.0,US 5-Year Yields... Jan '12: 0.91% Jan '13: 0.76% Jan '14: 1.72% Jan '15: 1.39% Jan '16: 1.49% Jan '17: 1.88% Today: 2.46% (7-Year high),0.020401811,0.8559501,0.12364802,3.0,2.0
+17,0.0,Mexican Black Eagle bonds worst billions?,0.4794854,0.50052214,0.019992514,1.0,2.0
+18,0.0,"The synthetic CDOs were a way of providing more instruments to bet on or against the housing market but they were filled with CDSs. People on the short side of the CDSs received monthly cash in flows representing mortgage payments but I don't think a lot of people on the short side had any idea they were providing insurance if the underlying went bust. This is what wiped out a lot of pentions.
+
+It's not that the CDSs paid 6 times the notional value of the bonds, it's that there were 6 CDSs for every MBS. That's probably not the best way of saying it though. You didn't need to own the MBS in order to take out an insurance policy on it. Seems counterintuitive as you can't buy insurance on a car you don't own. But this could be a good example.
+
+Imagine you could buy insurance on someone else's car and you and all of your friends know that Jim is a terrible driver. You all somehow buy insurance on his car because you know that the insurance company is severely understating the risk. They are charging him as if there is a 5% chance he will get into an accident but you know there is nearly a 100% chance. So now when Jim totals his car the insurance company has to pay Jim and all of you for the damages. That is how there were so many more CDSs than MBSs. There's a great quote from the movie by Jared Vennet ""I'm standing in front of a burning building and I'm offering you fire insurance on it."" But the insurance companies didn't know ""the building was burning""."" They thought people were just giving them free money for pointless insurance.
+
+Hope that makes sense. ",0.59020865,0.35013968,0.05965174,3.0,0.0
+19,1.0,"/u/kbyrnes wrote these words, but I wanted to make sure others got to see.",0.034409735,0.7091306,0.25645974,2.0,0.0
+20,2.0,"...Obviously a synthetic CDO is not exactly the same thing as a directly mortgage-backed CDO. I think what Eisman was saying was that the synthetic CDOs were effectively a substitute, or perhaps better said, were a functional substitute for the ""regular"" CDOs, because they provided a volume of financial instruments for the CDO manager to charge a fee against. 
+
+While diversification reduces risk, they key point made by Lewis (among others) is that the actual risk was misstated. 
+
+According to the ISDA, the notional value of CDS at the end of 2007 was about $62 trillion. According to the Fed, the value of all first lien residential mortgage loans as of March 2008 was about $10.1 trillion. I know that this is not my primary field of expertise, but I can't quite understand how one justifies having $10.1 trillion in assets insured for $62 trillion. Someone with a principal residence worth $400,000 couldn't get an insurance policy that would pay out 6 times that amount; the insurer would pay what it took to rebuild your house (or some variation on that). Last year, thinking about this same topic, I asked our homeowner's insurance agent why I couldn't overstate the value of my house. He smiled and said, ""Moral hazard.""",0.46765348,0.46661526,0.06573134,3.0,1.0
+21,3.0,I guess it depends on what it means to substitute...,0.13135745,0.82547057,0.04317196,3.0,2.0
+22,0.0,"I'm having trouble understanding the worry of rising yields for US equities. If bond yields rise bonds look more attractive than equities, yes. But my thinking is once money starts moving into bonds demand goes up raising bond prices and lowering yields. Is this the case or no? If not, why would yields not go down? Is the bond market so big that even institutions have little effect on bond prices? ",0.36477184,0.543265,0.09196315,2.0,0.0
+23,1.0,keep duration short and you should be fine.,0.017105592,0.34090334,0.64199114,1.0,0.0
+24,2.0,"U.S. 10 Year Bond yield has significantly moved up from 2.00-2.10 in September 2017 to Current 3.02 The Weekly Chart indicates near term resistance in the zone of 3.10-3.20. From thereon it is likely correct a bit towards 2.90-3.00 before continuing up move towards 3.70-3.80
+https://multi-act.com/impact-of-rising-us-bond-yields-on-equity-markets/",0.027165802,0.8456628,0.12717141,8.0,1.0
+25,3.0,Beware of the Rising U.S. Bond Yields!,0.32826415,0.6272543,0.04448161,8.0,2.0
+26,0.0,آموزش تحليل تکنيکال در بورس اوراق بهادار تهران,0.20458934,0.76342285,0.031987946,1.0,2.0
+27,0.0,US 2 Year Treasury Note Futures Live Quotes / Chart,0.07369936,0.898603,0.027697518,0.0,2.0
+28,0.0,US 5 Year Treasury Note Futures Live Quotes / Chart,0.07024974,0.90162057,0.0281296,0.0,2.0
+29,0.0,"Bonds, their types, features, regulations and tax treatment explained in 18 minutes",0.083476186,0.8562595,0.060264293,9.0,2.0
+30,0.0,"If yes, can you elaborate for an amateur? Would the time it takes for required yield to adjust affect the outcome (required yield from 3% to 5% over 3 years versus 1 year?)
+
+Finally, am I correct in assuming that I would know my cash flow regardless of required yield? Example: if I invest $100 at an annual coupon of 3%, I can expect this investment to pay me $3 a year regardless of requires yield?
+
+Merci!",0.14441702,0.7741176,0.081465475,4.0,1.0
+31,1.0,"Question: Can I roughly estimate the effect of required yield on the price of a bond fund, such as VAB.TSX?",0.053601194,0.9187781,0.027620701,4.0,2.0
+32,0.0,US 10 Year Treasury Note Futures Live Quotes / Chart,0.06863785,0.90603465,0.02532755,0.0,2.0
+33,0.0,"In the '08 crash, equities lost over 40%, investment Grade bonds lost ~20% while treasury bonds gained over 10%. Can you safely say that you won't sell your equities when they're melting? 
+It's just a question of diversification and risk appetite. ",0.45940396,0.4780519,0.06254414,12.0,0.0
+34,1.0,"It depends on the type of bonds you're referring to. Not all bonds are affected by the same factors. Generally, you wanna own bonds when rates are expected to be lowered. Bonds have peformed well over the past three decades because central banks have been lowering rates all the way down to zero. Now bonds are overvalued. As this credit cycle is coming to an end I would be careful with what I buy. Definitely avoid high-yield bonds.",0.52910465,0.4169141,0.053981204,8.0,0.0
+35,2.0,I use them for cash reserve and I do trade them as well.,0.022184562,0.86445135,0.11336418,3.0,0.0
+36,3.0,"If I were 45 or older I would consider some 10 year federal bonds over 5%. That may not be happening anytime soon, however. ",0.3901975,0.5495267,0.06027583,2.0,0.0
+37,4.0,"Bonds have been in a [40 year](http://sfbondclub.org/30-year-treasury-bond-rate-history) bull market and they tend to go down when stocks go up so there is a ton of conventional wisdom showing a portfolio of bonds + stocks outperforms both over the long term. That's why there's a constant drumbeat to ""buy bonds"".   
+
+They may have finally bottomed out though and its been 2 generations since anyone's seen this type of market. Being 10 or 20 percent bonds isn't a bad thing but bonds may be very bad if inflation returns.",0.24264622,0.5692,0.18815383,2.0,0.0
+38,5.0,"I wouldn't use the government basket for real inflation. For someone who is retired and on a fixed income, savings are eaten everyday by increases in power and water bills, taxes, etc. ",0.64603204,0.32314584,0.030822104,1.0,0.0
+39,6.0,"It seems your question shows you are only seeing one side of the equation: bonds are only good for income purposes and you only care about total return. 
+As another redditer mentioned, bonds don't have the same volatility, so most of the times, they don't have the same extreme drawdowns. Even if at the end of your holding period, a stock achieves >50% total return, would you be mentally strong enough to keep your shares if prices go down 70% at some point in time?
+Another reason to hold bonds is to have access to specific names or sectors, with different characteristics than equity. A lot of bond issuing companies don't have their equity listed.
+Additionally, regularity of income is important, do you need really need to be 55 to benefit from that?
+Bonds can also have capital appreciation, if you look after the GFC or for global miners since the beginning of 2016, you get income + spread compression (ie capital appreciation) in double digits.",0.26448375,0.62055904,0.11495723,1.0,0.0
+40,7.0,"Its ironic you ask this.  Because the stock market has gone up for so long, people do not remember when Bonds were a good choice.  That means we are very late in the stock run and over due for a stock market correction.  So if you have been in stocks since 2009, now would be a good time put some in safety.",0.38238093,0.46695027,0.15066878,1.0,0.0
+41,8.0,Then there is bond trading...where people make money on derivatives.,0.1800187,0.7583406,0.061640624,1.0,0.0
+42,9.0,"I’m confused.  Why would I want to own any bonds?
+
+I understand that bonds are lower risk than stocks. (True?).   But I’ve read that stocks have outperformed bonds in every 10 year period since the stock market began.
+If I assume I will retire at 65, is there any reason I would want to own bonds before age 55? 
+
+Thanks for any and all advice!",0.31169972,0.55241823,0.13588202,6.0,1.0
+43,10.0,Why would I want any bonds before age 55?,0.4412396,0.54288393,0.015876545,6.0,2.0
+44,0.0,"dude, they trade at a yield of 23&#37; - that is +2000bps over the benchmark. They are rated Caa1 with negative outlook and don't even have financial reports available beyond 2015 because they delisted. Back then, they didn't even have enough cash on hand to cover capex let alone barely covering interest expense (on top of being cash flow negative).  
+
+Im not trying to dissuade you from buying the bonds, but ""i see it hard that they go bankrupt"" it hardly enough of a justification. There's still 3 years till they need to pay the bonds back, in a rising rate environment. This is not a bond you buy as a sure thing, it's a bond you buy as a bet.",0.6563704,0.31111243,0.032517273,2.0,0.0
+45,1.0,Why is it hard to see them go bankrupt?,0.7815809,0.20808768,0.010331356,1.0,0.0
+46,2.0,"Hello,
+
+I am looking at Digicel 2020 8.25% bond. I know they have more debt than assets but I see it hard that they go bankrupt. Can I have some insights please?
+
+Thanks",0.64359117,0.319276,0.037132747,1.0,1.0
+47,0.0,"Even if 99% Turn into junk, we’ll have government bonds, which will stay safe.",0.06570173,0.65479827,0.27949992,3.0,0.0
+48,1.0,"I just bought $csj today, although I think they contain A rated corporate bonds. Anyone know how to find the makeup of bonds in these etfs?",0.038972434,0.91668093,0.044346765,1.0,0.0
+49,2.0,Corporate bonds are getting junkier,0.8054257,0.18401614,0.010558146,11.0,2.0
+50,0.0,"Yeah, that is normal and it is quite common for credit funds to use leverage to enhance returns.
+
+For context, on a portfolio of loans in Europe you can get LTV financing of up to 75% at rates of around 1.75%. Assuming 4% carry on the loan portfolio this translates to a around a 11% levered yield on the equity investment.",0.031009879,0.7593016,0.20968841,2.0,0.0
+51,1.0,"When you say “leverage” do you mean by borrowing? I think the answer above is accurate for credit funds but if your looking for a retail option, then you probably want to find a firm that offers margin. Margin is essentially “leverage” for the average investor but your gonna need to beat out the margin rates in order to net a return. The big firms that leverage their portfolios have billions in assets so they can negotiate better rates but your most likely gonna have to pay market unless your looking at like 500k plus in initial investment. Hope that helps!",0.061857507,0.57200336,0.3661391,2.0,0.0
+52,2.0,This is probably a stupid question but can you buy bonds on leverage and still receive the coupon? Thank you ,0.2831363,0.55034506,0.16651861,2.0,1.0
+53,3.0,Can you buy bonds on leverage and still receive the coupon?,0.101855375,0.87140954,0.026735157,2.0,2.0
+54,0.0,"These aren't ETFs, they're closed end funds. The reason they took a shit this year is because of the structure of their leverage.
+
+Coming in to the year we saw a broad selloff in fixed income driven by a rise in treasury rates. Because the fund owns a leveraged portfolio of long term munis, it has a pretty long duration. That more or less explains the drop in price until about February. The reason the fund hasn't recover since then despite long term rates stabilizing is that the spread between the yields of the bonds in the portfolio and the cost of the line of credit used to leverage the portfolio has narrowed due to the flattening yield curve. When you aren't making as much money from that spread, the leverage essentially adds interest rate risk without really adding to return. CEFs generally have to delever in that scenario, which forces them to sell portfolio assets in a declining liquidity environment. That's a major reason why the discount has widened, because market participants recognize that this is a terrible environment for a closed end muni fund.
+
+I'm not as concerned about another big drawdown in longer term bonds from a rate spike, but I'd have real trouble buying a muni closed end with the yield curve this flat. I expect the discount to continue to widen, and your total return will probably be worse than buying a vanilla muni ETF. You might be able to bargain hunt in this thing in Nov/Dec, because retail flow obviously dominates muni CEFs and there should be another round of tax loss selling like we saw with these last year.",0.78112227,0.19832811,0.020549597,6.0,0.0
+55,1.0,"ETF of municipal bonds, mostly highly rated, diversified geographically. Trading at an 11% discount to NAV. Yielding a little over 5.5%, tax-free (which is like 8% pre-tax). It has a small amount of leverage to get that yield, but I don’t think it deserves such a discount. There are a few other similar Blackrock municipal bond ETFs (MQT, MYI) that all trade at 10%+ discounts after selling off hard this year.  
+Any reason why these wouldn’t be a good idea? I can’t see major defaults spread across all the geographies in the portfolio. I can’t see much of a chance of a negative return on these, and a good chance of 7% or higher annualized if the discount closes. ",0.2973902,0.56843406,0.13417569,2.0,1.0
+56,2.0,MQY municipal bond ETF long idea,0.04939094,0.87767214,0.072937064,2.0,2.0
+57,0.0,"I thought I posted the link too, source FT article [here](https://ftalphaville.ft.com/2018/07/12/1531407407000/The-herds-and-the-BBBs-/), may be behind a paywall. ",0.39188024,0.57076555,0.03735413,1.0,0.0
+58,1.0,"Thanks for sharing. Bloomberg had a similar piece about how the IG index is composed of more and more BBB names bringing it closer to junk than many assume.
+I've also looked at average debt/ebitda ratios and interest coverage trends of the S&P500 members over the last decade and the deterioration of credit metrics is somewhat alarming. ",0.48513964,0.42496452,0.08989595,1.0,0.0
+59,0.0,"[According to this](http://www.alllaw.com/articles/nolo/wills-trusts/how-transfer-us-savings-bonds-after-death.html), if the bond was just in a single person's name, it passes through the estate.
+
+If it's well after their death and the estate is closed, it varies by state, but you (or an interested person) probably would have to [re-open the estate](https://info.legalzoom.com/newly-discovered-assets-after-close-probate-23270.html).",0.13140497,0.8228521,0.045742888,1.0,0.0
+60,0.0,The Next Generation Bond Market,0.07466784,0.8581402,0.06719205,1.0,2.0
+61,0.0,"Have any more info? Where are you even getting price quotes on these ""12 year bonds""?",0.16127901,0.8210108,0.017710181,3.0,0.0
+62,1.0,"That's ~4%. My first thought was the spread. That would be an awfully wide spread, though.",0.3996266,0.49861583,0.10175763,2.0,0.0
+63,2.0,I would imagine they are quoting bid with respect to your current mark. In our bond fund we generally take a 0.25-0.50pts after a trade to reflect the bid/ask.,0.066106096,0.888325,0.045569,1.0,0.0
+64,3.0,"Don't want to be nitpicky but I would question your decision to have invested in this bond in the first place.     
+I hope you have invested in this bond for income purposes, ie the 4% coupon and not for capital appreciation.   
+
+This bond has a very long maturity of November 2030 (12yrs) and even its first call date is not before November 2026 (8 years). The longer the maturity, the more sensitive it is to variations in interest rates.  
+However these bonds are meant for buy and hold and given the rating, they look like pretty safe, so you should be repaid at par at maturity. Don't know the credit worthiness of the borrower but unless you have concerns about a potential default, I would not worry too much about daily volatility.",0.20522352,0.6299764,0.16480012,1.0,0.0
+65,4.0,Hold until maturity and you won’t have anything to worry about. The value of the bond will fluctuate over the next 12 years. Put it out of your mind and enjoy the interest payments.,0.1260432,0.67353857,0.20041816,1.0,0.0
+66,5.0,I just bought $25k worth of a 12 year bond and I lost almost $500 within minutes. How is this happening? Or did they screw me with fees? The price of the bond went down almost 2%.,0.8947755,0.09665914,0.008565477,7.0,1.0
+67,6.0,First time investor in bonds,0.03858178,0.8537981,0.10762014,7.0,2.0
+68,0.0,"Just buy a bond fund with your preferred bond style.
+
+Bonds differ in duration (how many months you lock in a rate for) and rating (how likely it is to be defaulted on)
+
+Duration can differ from ultra-short (a few months to a year), short (up to 2.5 years), intermediate (up to 10), and long
+
+if you are buying a bond fund, then the average duration of each bond might be lower than the maturity of each bond they buy - they might buy 10 year bonds, but the average for the fund is 5 years because they're already holding some bonds for many years now
+
+Credit rating can be from AAA to C (D is for in default). Junk bonds are often unrated.
+
+Floating rate bank loans are generally equivalent to junk ultra-short bonds, since their duration is 3 months and they're not safe in a recession.
+
+
+tl;dr if you have big stock portfolio you should buy long US treasury fund since that will protect you from a recession (but lose NAV while the interest rates climb)",0.3823443,0.5481942,0.06946148,2.0,0.0
+69,1.0,Why just bonds and not a diversified portfolio? If you invest in index funds you can scale your portfolio to include 90% bonds and 10% stocks or vice versa. To start take a look at vanguard and DFA. I believe they have international portfolios you can look at.,0.020121194,0.7425397,0.23733899,1.0,0.0
+70,2.0,"I am interested in buying some fixed price bonds.
+
+I want to buy US bonds but I am not from the US. I have absolutely no idea what bonds are there and what I should buy.
+
+My broker is Interactive broker. 
+
+&#x200B;
+
+Which bond can you recommend?
+
+&#x200B;",0.4169136,0.5144459,0.06864053,2.0,1.0
+71,3.0,First time investing in bonds,0.05006773,0.86217463,0.08775767,2.0,2.0
+72,0.0,Are you withdrawing from the fund or living off the yield? If the yield the day to day movement of the share price should matter little to you,0.20932981,0.7598434,0.030826764,2.0,0.0
+73,1.0,"From what I understand about bond funds...the manager has basically created a bond ladder around the duration of the fund’s objective...so unless the manager is selling current assets at a discount and buying new bonds at par (as opposed to waiting for maturity), is imagine your total return on the bond fund should be a comparable situation if you’d bought the bonds and held them to maturity yourself. 
+
+Anyone have insight on how much liquidation of assets bond fund managers typically engage in?
+
+I’d imagine there has to be *some* selling if there are net redemptions from the fund. ",0.16945198,0.78388685,0.046661124,1.0,0.0
+74,2.0,"Just withdraw from the fixed income side only until that runs out, at which point your stocks will have probably gone through a recession or two but recovered just fine
+
+Just don't take out of the stock portion since that's the part that's supposed to last you the rest of your life. Who knows? You may live to be over a hundred.",0.09163201,0.57600856,0.33235934,1.0,0.0
+75,3.0,"Perhaps you should reevaluate being worried about being exposed to equities? As bond yields increase, investors may shift allocation from equities to bond funds if bond yields are more attractive. Also, bond yields increasing will increase interest expenses for corporations. 
+
+Since it seems like you're worried about bond yields rising and your bond fund falling in value, maybe you should shift to a shorter duration fund or a target date fund. iShares has some offerings here in the ETF space. If you pick a target date fund, you can lock in your yield. If you pick a shorter duration fund, you will not be rocked so hard if the curve starts to steepen. The Fed is not targeting something like 8% rates in the next couple years. The [target](https://www.federalreserve.gov/monetarypolicy/files/fomcprojtabl20180926.pdf) seems to be in the 3-3.5% range for now.",0.2701082,0.6244618,0.10542981,1.0,0.0
+76,4.0,"Straighten out my thinking.
+I am a 70 yr old retiree, have no concerns about amassing or leaving a valued estate, just want to live as well as I can, and die broke.
+About 3 1/2 yrs ago, I came into an inheritance, went to a bank financial advisor, 
+and put majority of it into a managed portfolio > 60% in a fixed income fund (for income and safety) 40% equity funds for growth and inflation hedge. 
+Pretty straightforward textbook stuff, where I don't have to be active or smart.
+And it's been OK, I take a fixed sum out every month for me.
+
+Now I am looking at my situation of being 60% in bonds at a time when interest rates are expected to rise.
+Not good; rising rates >> decreased bond prices. My future value looks bleak as (60% of) my capital erodes. 
+Sorta like the miracle of compound interest in reverse.
+Just to be clear, I'm comfortable with the 40% in equities, it suits my positive outlook. 
+My issue is with the 60% in fixed income; thinking it would be better in cash, 
+which may seem dead (limited to term deposit minimal rates), but is not subject to loss. 
+
+Think about it for a day or two, and slap myself upside the head:
+""self, you dummy, the future value of my bonds is *NOT* a function of market volatility in the secondary bond market, 
+but *IS* predetermined by the maturity value of the bonds"" SLAP ""capice?"" 
+self: ""duh, yeah, OK, sorry for being so stupid"".
+
+Another day, another thought: ""Well, it would be ok if I directly owned bonds and reinvested them at maturity, getting cheaper bonds (higher yields); 
+but really I own shares in the fund, and the future value of those shares is not fixed by maturity value, 
+and *IS* subject to market volatility, and is likely to decrease with rising interest rates."" 
+
+My brain is in pain, slap me upside the head again, please.",0.5010669,0.3749416,0.12399147,3.0,1.0
+77,0.0,"My analysis is with him up until the end. Posted it elsewhere, but the TLDR is:
+
+30 year yield in short term ascending triangle with resistance at 3.4, support being the trend reversal he went on to explain nicely. Resistance was broken, didn’t confirm, dropped back, and now we are ceeeping back up. Triangle is coming to its end. I’m expecting an upward break both based upon the TA, short term yields, and the further increase of 25 bips pencilled in.
+
+Short term yields as compared to long term yields are still crazy compressed given what the Fed has told us. Less than a 1% premium on 29.75 years of extra duration? Please.
+
+Once 3.4 breaks and confirms the 30 year may make a swift move up through 3.5, where it may go on to challenge 4%. 
+
+Long term debt is in a bubble that hasn’t corrected yet. Yes we probably will challenge the trend, but not until we’ve made some head room. 
+
+The way to play this is to hide in ultra short term treasuries and then reallocate out depending on what you are trading.",0.27307048,0.5945314,0.13239811,3.0,0.0
+78,1.0,"Greater than 5 year bonds? No, thank you.",0.1187537,0.49726486,0.38398147,2.0,0.0
+79,2.0,THANK YOU!!! Finally someone posts some quality content to this sub. Are you the person who made this video?,0.0054511023,0.08117241,0.91337645,2.0,0.0
+80,3.0,US 10 Years BOND: What is next?,0.07325068,0.89935565,0.027393578,3.0,2.0
+81,0.0,"There is no limit on the quantity of bonds or outstanding debt, although the US has a self imposed debt ceiling that is politically problematic.  Debt is issued to mitigate the level of inflation, but it is not directly related to the deficit, which is simply a measure of tax revenue versus spending.  Remember that a sovereign currency issuer doesn't need to 'raise money', but uses taxation and debt issuance to move capital through the economy and meet inflation targets.  Your questions might be apropos in the muni bond market, where local governments issue debt to raise money to spend.
+
+&#x200B;
+
+If you want to know more about the national debt, there is a good resource here:  [https://treasurydirect.gov/NP/debt/current](https://treasurydirect.gov/NP/debt/current) and spending info here: [https://www.usaspending.gov/#/](https://www.usaspending.gov/#/) ",0.15874363,0.65911204,0.18214418,4.0,0.0
+82,1.0,"Does a country like the US limit the quantity of all bonds in circulation? How is this limit enforced?
+
+For instance, if I were predicting a deficit in a year, I would want to issue more bonds. However, if I were to predict a surplus, I may want to buy back some bonds (or just not issue additional bonds). Where is this amount of available inventory of bonds listed?",0.20826696,0.74441946,0.04731359,4.0,1.0
+83,2.0,Is there a limit to the number of bonds issued by a country?,0.13907216,0.8393178,0.021610033,4.0,2.0
+84,0.0,"If you don't own them, why do you care? Why do you ""need people to explain"" any of this? 
+
+1) no
+
+2) see above
+
+3) The note you are looking at and/or its derivatives and/or the tender offer has some component of it based on the conditions of another totally separate security. Similar to how one's home mortgage rate might be based on the LIBOR rate for example - as LIBOR changes your mortgage payment may change. In the case of these notes you are asking about, their reference security appear to all be treasuries you will need to look at the details of the note to see what and how they utilize the reference security. Fixed spread (bps) are basis points above another interest rate the note is using.
+
+4) No. They will give you $30 extra for every $1000 aggregate principal. 
+
+5) Your questions are misguided at this point. And your math on calculating bond value is also wrong. $1000 of par value and $1000 of current fair market value are different things. Are these $1000 par value notes currently trading for $500, $1000 or $2000 etc? Par value and market value are different. 
+
+Also ""But with current low interest environment bond value will go up if the company is a safe company."" is not exactly correct, talking about two different things. There is credit risk and there is interest rate risk (duration risk), they are connected but different risks. 
+
+6) See above. 
+
+Welcome to the wonderful world of bonds. 
+",0.4798746,0.45031556,0.06980979,1.0,0.0
+85,1.0,"    http://investor.apachecorp.com/news-releases/news-release-details/apache-announces-early-tender-results-and-upsizing-cash-tender
+
+i dont own those bonds. Need people to explain what those terms means.
+
+1) 7.95% notes due 2026 bond have 180M outstanding and ""Principal Amount Tendered"" = 46.7M . They only want to buyback 46.7 out of the 180?
+
+2) If yes to (1), why not just buyback completely 7.95% notes due 2026 or 7.70% notes due 2026 since the mature date/ interest are about the same and deal with less one outstanding note?
+
+3) whats ""Reference Security"" and ""Fixed Spread (bps)"" on the site means?
+
+4) ""The Total Consideration includes an early tender premium of $30 per $1,000 in aggregate principal amount of Notes"" If i sell them back $1000 they will give me $1030 ?
+
+5) ""7.95% notes due 2026"" If i have $1000 that means every year i have $79.5 interest. But with current low interest environment bond value will go up if the company is a safe company. Let said it safe company, (79.5/ .06 ) = $1325 . Its worth 1325 why sell it back for 1030?
+
+6) Recently they want to offer new bond(did they sold it yet?)  with lower interest rate (4.375%) to buy back those higher interest bond. If people think they are safe company and worth the 4.375%, then those old bond should be 1817 (79.5/ .04375) . Why sell them for $1030? ",0.20464268,0.7069742,0.08838302,2.0,1.0
+86,2.0,"question about ""Cash tender offers for senior notes""",0.13632514,0.8349269,0.02874799,2.0,2.0
+87,0.0,I am getting these answers in Libre Office Calc/Excel. What are you using for calculations ? Professional calculator?,0.08509976,0.8461445,0.06875574,1.0,0.0
+88,1.0,Is your calculator using the right coupon frequency? The answers appear to assume semi-annnual,0.15199903,0.78806204,0.059938945,1.0,0.0
+89,2.0," 
+
+I have this accrued interest problem and I am not sure what I am doing wrong calculating the price. My answer keeps being off by a couple dozen BP and I don't know what is causing it even after toggling different assumptions. Really only need help with B and C
+
+&#x200B;
+
+Find the prices of the following bonds and notes assuming a settlement date of 15 October 2003. Assume the day count convention is actual/ actual
+
+&#x200B;
+
+A. 6.5% due 8/15/2007 at a yield of 6.02%
+
+B. 5 3/8 due 2/15/2031 at a yield of 4.8%
+
+C. 14.00% due 11/15/2011 at a yield of 5.10%
+
+&#x200B;
+
+The book only includes the answer's with no work shown so I am having trouble figuring out where I may have made a mistake.
+
+&#x200B;
+
+The book says the answers should be:
+
+A. 101.611 This one I get just fine
+
+B. 108.696 I stick in the numbers for this in the same formula and I am off by .080 and not sure why.
+
+C. 158.351
+
+Please help, I don't want to move past this without understanding it.",0.63281214,0.32080823,0.046379562,2.0,1.0
+90,3.0,Help Calculating Accrued Interest,0.083846435,0.8756834,0.040470105,2.0,2.0
+91,0.0,"You're trading into currency risk. Maybe you can hedge it with a swap that's the same maturity as the bond, so rates are locked in? But I fear any potential advantage is arbitraged away (including trading costs) versus just buying the HY with USD.",0.4422255,0.5175479,0.04022654,3.0,0.0
+92,1.0,Good idea but what if you went long bonds at say 4% then the currency depreciates by 4%? You will be totally caught out. Abulda mentions you can use swaps but the probability of you have access to that is slim,0.53974897,0.41543078,0.044820223,1.0,0.0
+93,2.0,"https://en.wikipedia.org/wiki/Uncovered_interest_arbitrage
+
+https://en.wikipedia.org/wiki/Covered_interest_arbitrage",0.25203022,0.47640535,0.2715644,1.0,0.0
+94,3.0,"hi i was thinking to ask for a eur loan because of low interest and reinvest into high yield usd corporate bonds as there are more high yield usd bonds than eur, i want to know the possible risk and how to mitigate it if possible, thanks",0.063308656,0.78359854,0.15309282,3.0,1.0
+95,4.0,loan eur to high yield usd bond,0.06748436,0.84163725,0.0908784,3.0,2.0
+96,0.0,"You can lend money at higher rates now.
+Old bonds with lower coupon payments will only be attractive for investors if their price go down enough.
+",0.16772419,0.6190464,0.2132294,4.0,0.0
+97,1.0,"good economic numbers lead the market to price in higher wage inflation components to nominal yields. Fedspeak has indicated that the rate hike path is fairly hawkish (powell: going past neutral rate), on top of high amounts of bond supply hitting the market this week. Chinese reserve data over the weekend also indicate potentially more offloading of treasuries than expected, and on a technical basis the initial drop in bond prices (yields up) led to a number of stops in futures being triggered further exacerbating the selloff in bonds.",0.23537531,0.6458902,0.11873464,3.0,0.0
+98,2.0,Investors are thinking that the Fed are more likely to increase rates now without problems when the unemployment continue to go down and the economy is doing fine.,0.057297077,0.46330646,0.47939652,2.0,0.0
+99,3.0,"selloff in bonds raises yields , it is clear . what is not clear why do they start massively sell them?",0.48275435,0.4934317,0.0238139,4.0,2.0
+100,0.0,Best post I seen in here in a while. This subreddit often feels like the Lazenby of subreddits. Thanks. ,0.0029228851,0.040929567,0.9561476,6.0,0.0
+101,1.0,"Why do so many people remember Dolly from Moonraker having braces?
+
+Near the end of the James Bond movie Moonraker (1979), there is a scene in which Jaws (the big bad guy with metal teeth) gets trapped under some ruble after a fight with Bond. A cute blond girl with pigtails comes over and helps him out. He smiles, with his metal teeth reflecting the sunlight, and Dolly (as many people remember it) smiles back with braces on. They then walk off together without saying a word, holding hands. The joke of course is that they are both metal-mouths.
+
+If you go back and watch the film now, Dolly no longer has braces! It's not just the VHS or DVD or director's cut, but rather there are no copies in which she ever had braces to be found anywhere. Many people refer to this as a ""Mandela Effect"" (I won't explain it here but you can easily look it up.)
+
+Is there a more mundane explanation?",0.1638317,0.59634316,0.23982513,8.0,1.0
+102,0.0,Please help me interpret forward rates!,0.033544194,0.6883957,0.27806005,2.0,2.0
+103,0.0,How to choose the best Bail Bond agency in San Diego? —Articles For Website,0.019464105,0.864069,0.11646684,0.0,2.0
+104,0.0,US Bond Yields Rates/Quotes,0.10209588,0.8600128,0.037891384,2.0,2.0
+105,0.0,"Toronto Stock Exchange (TSX), Bull or Bear? Buy or Sell?",0.14972153,0.80701315,0.043265264,1.0,2.0
+106,0.0,Spreads and how is the Fed watching equities?,0.16144437,0.808741,0.029814593,2.0,2.0
+107,0.0,How To Go About Finding The Bail Bonds Agency San Diego CA?,0.079766385,0.9020767,0.018157003,0.0,2.0
+108,0.0,US Treasury prices rise as investors run to bonds for safety amid stock sell-off,0.03610958,0.84732336,0.116567105,3.0,2.0
+109,0.0,"An easy way to think of it is that Treasuries are safe. If people are buying up treasuries (driving the yields down), then they're bearish on the economy. Corporates are significantly riskier, so if they're being bought while Treasuries are being sold, it likely means that traders are more optimistic that values on Corporate levels will rise. Something to bear in mind is that these strategies are suitable for large investors and traders, not necessarily for retail investors like you or I.",0.18482845,0.59474576,0.2204258,2.0,0.0
+110,1.0,"I think he's talking about credit spreads in a roundabout way. 
+Never heard of a corp/tsy ratio.",0.3180632,0.62136686,0.060569942,1.0,0.0
+111,2.0,"Adam Robinson has made some tweets about how he likes to simplify his market trending metrics down to just a few important ones.
+
+He currently tracks LQD (a corporate bond ETF) and IEF (7-10 year treasury bonds).
+
+""A bond trader who’s bullish on the economy will buy corporate bonds and sell treasuries as a hedge (just in case the interest rates rise – causing the bonds to go down in value)""
+
+""So just take a ratio of LQD/IEF – this will tell you what bond traders think of the economy. When they disagree seriously with equity/stock traders, the bond traders are right, and early.""
+
+""Want to understand our economy's health? Forget employment, trade wars, consumer confidence, yield curves, or price of oil. There's ONE KEY VARIABLE. In a HEALTHY economy, US 10-year yields should be INCREASING. They recently bounced off 1-year LOWS. ANYTHING ELSE IS NOISE.""
+
+""To clarify, if our economy were healthy, companies would be looking to the future positively, borrowing money in anticipation of increased economic activity, and so bidding up long-term interest rates. US 10Y yields recently hit 1-year lows; Japan & Germany, 2-year lows.""
+
+Now what I'm unclear on is if the -trend- is what matters, or the absolute position of these values.
+
+Basically, 10 year treasuries being sold down mean we've been bullish for a while, but they are about to start increasing now because they bounced off the bottom?
+
+Also, looking at IEF, it doesn't show a clear downward trend, so I'm trying to get an idea of how this ratio works since the chart doesn't show the yield - just the current value/return I think.
+
+I'm mostly trying to understand what the current treasury indicators mean to most people (based on Adam's tweets), and what the correct investment/hedging strategy would be now.",0.31253338,0.5958154,0.09165117,3.0,1.0
+112,3.0,Could someone help me understand corp bonds vs. treasury ratios and trends?,0.051996656,0.90899116,0.03901223,3.0,2.0
+113,0.0,"10-15 year investment grade munis. Spreads between investment grade and junk (across the board) isn't wide enough for the risk, corporates are pretty expensive, and treasuries aren't worth it, can get better yields in CDs.",0.58777046,0.3638064,0.048423097,5.0,0.0
+114,1.0,"Long 2 year futures as a hedge. If the stock market goes down or stays flat it should compensate me a little bit
+
+But if it goes up, I'll load up on bonds when the yields are higher than now",0.093043365,0.760879,0.14607777,2.0,0.0
+115,0.0,"I exited this trade for about a 1.25% gain as the future outlook on MU has decreased substantially.
+
+Edit: paging u/aldz1 in case you care.
+
+Second edit: return including accrued interest is 2.4% (non-annualized)",0.31828493,0.61687636,0.06483869,2.0,0.0
+116,1.0,Good analysis. Do you have any books you'd recommend on bonds? I know a bit about equities but only what they teach at uni about bonds aha,0.011490133,0.50837946,0.4801304,1.0,0.0
+117,2.0,"$MU shares are currently trading for $33.88 after reaching a high of almost $65 back in May 2018. The stock's price action has been quite bearish. Looking at valuation, a DCF analysis pegs the stock at around $81/share using current free cash flow estimates; PE is 2.7x; level of debt compared to net worth is 11.9%; debt is being reduced and is well covered by cash flow.
+
+Bond 595112BC6 (5.5% 2025-02-01; Callable at $102.75 starting on Aug 2019) is trading between 98 and 102.625, with yields between 4.686% and 5.898%. Seems like a pretty simple trade if a nice entry price can be achieved for this bond. ""Worst case"" you get called in August (real worst case is the company declaring bankruptcy, clearly). Has anyone else looked at bonds for $MU?",0.16673075,0.6128785,0.22039069,5.0,1.0
+118,3.0,Has anyone looked at MU bonds?,0.108117215,0.856341,0.035541855,5.0,2.0
+119,0.0,Well it obviously depends on where you live and pay tax.,0.23872082,0.72707886,0.034200355,3.0,0.0
+120,1.0,"Not sure how it works at the personal income tax level, but the premium means you have a lower interest income every year. You take tht premium and amortized it against the cash you received. Hope that helps or maybe leads you in the right direction. ",0.13414034,0.6036599,0.2621997,2.0,0.0
+121,2.0,Tax on an interest from bonds,0.13464867,0.8189111,0.0464403,4.0,2.0
+122,0.0,"I am looking for a long term bonds for my savings. Should I consider to invest Turkish 30 years eurobonds. 30 Years USD Turkish treasury eurobonds giving %3.67 yield every 6 month. Its an hell of an interest. PS Moody's Rating for Turkey BA2(Junk bonds) right now but Turkish Treasury always payed its debt never declared bankruptcy since its foundation.
+",0.19104281,0.7222293,0.08672792,1.0,1.0
+123,1.0,Investing Turkish Eurobonds,0.08680251,0.86011845,0.053079,1.0,2.0
+124,0.0,"Del City, OK Bail Bonds Solutions! - Are you looking for a prompt and professional bail bond service nearby to Del City, OK? make the bail bond process as seamless and straightforward as possible from start to finish with the help of the experts.",0.0029514,0.23342998,0.7636187,1.0,2.0
+125,0.0,2 Year Treasury Futures Reference for 1/8th of 1/32 ticks,0.04897455,0.91934544,0.03167989,1.0,2.0
+126,0.0,U.S. Government Bonds Hold Steady,0.023753423,0.9123159,0.06393067,1.0,2.0
+127,0.0,"Coupon and yield are different. In this case yield is very close to coupon (if they are exactly the same price will be par)
+
+Also I see bid/ask spread across par. 99.998/100.88 so would say price may be illiquid thus the variation. Doesn’t seem wildly off to me but maybe I’m missing something ",0.37511894,0.56150675,0.06337442,2.0,0.0
+128,1.0,"The yield to maturity/worst is only 1.7% because the price is over par(100).
+
+I wouldnt waste my time/money on this bond.",0.48176393,0.4534176,0.06481855,1.0,0.0
+129,2.0,"Can someone please explain how this bond works? (Yield is about 5% but price is 99.998, how is that possible?)",0.28444198,0.66868687,0.04687102,5.0,2.0
+130,0.0,"What kind of bonds we talking? Corporate? Asset-backed? mortgage backed? Government bonds?
+
+You can buy baby bonds on an exchange (Oxford Capital just issued some). If you have specific bonds in mind you have to buy from the owner... which can be hard to track down but if you have a private wealth account with any of the big boys, they can buy some for you. The hard part is you generally have to have a decent amount of money to invest. No one is going to be 10 bonds for you.",0.36046678,0.56394404,0.07558915,1.0,0.0
+131,1.0,"You should probably not buy bonds if you don't know where to even buy them. If your heart is really set on it, open up a brokerage account, and buy treasuries. Short ones. Like <1 Year",0.50454193,0.46013793,0.03532011,1.0,0.0
+132,2.0,What country are you in? How much experience do you have investing and have you ever looked at bonds before? How much capital do you have to allocate just to bonds? I think you are probably better off simply buying into a bond fund unless you have quite a lot of capital to transition into a bond portfolio.,0.25144514,0.6953764,0.05317845,1.0,0.0
+133,3.0,"Frankly I prefer bond etf over particular bond, easier to cash in when I suddenly need money.",0.039500564,0.5528092,0.40769023,1.0,0.0
+134,4.0,Can anyone tell me where I can buy bonds? Do you get physical paper of your bond or is it electronic?,0.08529236,0.89529896,0.019408785,0.0,1.0
+135,0.0,"Check out the price. If you hold to maturity, you'll get $100 per $120 invested. Back that out of CY and you get YTM.",0.023112334,0.87326044,0.103627086,3.0,0.0
+136,1.0,"Hey Patch, what platform are you using to look at these assets?",0.03077775,0.90989906,0.059323207,1.0,0.0
+137,2.0,Where is par? Am I missing it here?,0.43268782,0.54586214,0.021450007,1.0,0.0
+138,3.0,I am still confused. Why are the YTM and CY so wildly different on this bond? I've read the difference and am still confused.,0.87358904,0.120736875,0.005674007,4.0,2.0
+139,0.0,"Define “good”?  
+
+Those ETFs describe themselves with ‘Total Bond Market’, what sort of diversification are you looking for beyond this “total”? ",0.13211033,0.7798099,0.088079885,1.0,0.0
+140,0.0,"I’d simply say it’s old school carry over. Stocks once traded in fractions too, but that’s gone away with time.  The real fun is trading with pluses, quarters etc. then it’s even harder for people to convert in their heads.",0.38310865,0.4700035,0.14688785,1.0,0.0
+141,1.0,"hey guys, just a quick question. Can someone ELI5 why government Notes and bonds are quoted in 32nds of a dollar? Why not just do it out of a whole dollar instead of making things complicated?
+
+&#x200B;
+
+Thanks!",0.34269983,0.5709855,0.08631475,1.0,1.0
+142,0.0,10 Most Common Types of Bonds - Which of them is Best For You?,0.023306929,0.89927655,0.077416554,1.0,2.0
+143,0.0,Understanding Bonds and Their Risks,0.18035771,0.7841251,0.03551719,1.0,2.0
+144,0.0,"This is not the time to be buying high-debt borderline junk. I have no idea what you're situation is but I would not buy any of these.
+
+Because bonds have moved up so fast the last few months I would be hesitant to buy even treasuries but I can't predict the future so if the world goes to hell then today's prices might be a bargain.
+
+I use Fidelity and trade bonds there. There's great liquidity for high grade bonds but here will diminished liquidity for bonds close to speculative grade as the economy weakens.
+
+However, if some of these are what you want then here's how I'd start. First check the call dates. I do not want to pay up (over par) if the bond has a chance of being called. If interest rates continue downward some of these may be called and re-financed.
+
+Check the company's debt and asset ratios.
+
+Check the liquidity of recent trades (Fidelity has a link on the bond info page.)
+
+Check Moody's (free) or S&P (Fidelity) to see if any of these are on watch for downgrades.
+
+For example, I can see you looked at Ford. The outlook is negative for them making them a speculative plus you have to pay a lot of extra principal up front.
+
+Lastly, I'll say 10 years in the future is a long time coming from 10 years of economic expansion and loads of debt. Good luck.",0.627464,0.3239414,0.048594598,2.0,0.0
+145,1.0,"I thought I’d open a discussion regarding understanding buying and selling bonds similar to the ones here.  They are mostly all bonds over 5% ‘coupon’, or yield.  What is the downside of buying them? Can they be sold at any time?",0.1894064,0.75969374,0.0508999,1.0,0.0
+146,2.0,"The higher the yield the higher the risk the market is pricing in the bond, plain and simple. You should be looking at the yield, not the coupon. Yes the coupon is the amount of cashflow you receive each year but factor that against the principal you put down and it changes. Yield is a better measure but of course that assumes you hold until maturity (or call).  
+
+But what if you sell beforehand? Well, that's where capital appreciation/depreciation comes in. The Ford motors bond you clicked on has a 0.766 bid-ask spread. That's a 0.7% roundtrip cost - this is liquidity risk. Bonds are not as liquid as equities or bond funds.
+
+&#x200B;
+
+in this current environment you should be looking for companies with good fundamentals, in defensive sectors and healthy balance sheets (such as being able to repay their debts). Unless you think we're going to go for another 10 years of glorious expansion and growth in which case buy all the stuff above 5% in that list.",0.31414595,0.5048327,0.18102144,1.0,0.0
+147,0.0,"Corporate bonds? 
+
+Usually based off relative value. So you look at a companies outstanding bonds and what spread they trade at... then depending on various factors (size/liquidity) you’ll usually add a few bps to the new bond and then launch your deal. The extra bps attracts investors and you’ll spend a day marketing it and trying to obtain best possible pricing. As more (quality) investors come in, the better the pricing for a company. 
+
+At the end of the day you determine all the details (size, marking UST, exact spread) and then investors will get allocated their amount. Usually same day or next day it’ll begin trading to the whole market.",0.015161958,0.53051466,0.45432338,2.0,0.0
+148,1.0,How are bonds priced in the primary market,0.12116548,0.84907544,0.029759064,3.0,2.0
+149,0.0,"Maturity date of August 1, of this year, right? so ~30 days? I would simply hold it. Your ""penalty"" is going to be transaction costs and I can't imagine any bond desk touching a single bond for less than a month's worth of interest.",0.39266673,0.54720116,0.06013218,1.0,0.0
+150,1.0,My US Treasury bonds with a maturity date of August 1st is earning me $541. What happened to this cash if I sell out this bond prior to its maturity date? Would there be a penalty? Thank you,0.08294399,0.76853776,0.1485182,1.0,2.0
+151,0.0,"Ok, first time here (can you tell?).
+
+I want to make sure I understand this correctly. The price for this particular bond is 119.50. So to own $10,000 in face value, I'd pay $11,950.
+
+Then, the YTM is 5.242, so I'd collect 5.242% per year, yeah?
+
+If that's the case, then it would take ~4 years to recoup the initial spend over face value, right? $1950 / $524/yr in interest = ~4 years
+
+So to make an actual profit, I'd need to hold this for longer than 4 years. Maturity is 2031. I'd be at breakeven in 2023, and would continue to collect $524/yr for the next 8 years, right? Then, in 2031 I'd get my initial $10,000 FV back. 
+
+Net profit would be ~$4300 over those 12 years ($524 * 12 - $1950). What would the yearly RoR be?",0.20879892,0.6818164,0.109384656,2.0,0.0
+152,1.0,Want to make sure I understand this correctly,0.08311701,0.77872574,0.13815717,1.0,2.0
+153,0.0,I think I might of found my answer but any sort of verification or better suggestions are welcomed. But yeah it's 5 percent on what you invest yearly so it would be 10.50?,0.013708495,0.5814621,0.4048294,1.0,0.0
+154,1.0,"I have a question about a bond, I'm new to this kind of stuff",0.36061183,0.6103558,0.029032454,2.0,2.0
+155,0.0,How to calculate bond price on a FRN?,0.1000061,0.87453675,0.025457233,2.0,2.0
+156,0.0,"It is because interest rates and bond prices have an inverse relationship.
+
+So, when one goes up, the other goes down.
+
+The European Central Bank has been lowering its interest rate.",0.26128548,0.6749756,0.063738905,2.0,0.0
+157,1.0,US fixed income is up quite a bit too. People have been bidding up bonds all year.,0.027215162,0.70663077,0.26615408,1.0,0.0
+158,2.0,"[https://www.justetf.com/de-en/etf-profile.html?isin=LU0290357846&tab=chart](https://www.justetf.com/de-en/etf-profile.html?isin=LU0290357846&tab=chart)
+
+Italy?",0.20134777,0.7707444,0.027907772,4.0,1.0
+159,3.0,Why are longterm Eurozone bond ETFs up 30% this year?,0.13688406,0.75611466,0.1070012,4.0,2.0
+160,0.0,Forex Trading Harmonic Scanner | Cryptominer Solutions,0.056575634,0.8905837,0.052840676,0.0,2.0
+161,0.0,"Bonds are a safe haven, they'll go up.
+
+Alternatively, USD can be seen as a risk and if devalues, bonds will go down.",0.18757336,0.69024795,0.12217861,3.0,0.0
+162,1.0,Should have been a buy since it was a surprise risk-off event,0.067643605,0.80736023,0.124996215,1.0,0.0
+163,2.0,"""given the recent act of war?""
+
+Is the attack on the American embassy in Iraq the act of war you are talking about?",0.68386436,0.3093073,0.006828414,0.0,0.0
+164,3.0,What would you guys advise to do with US treasury bond investments given the recent act of war?,0.20059688,0.7852437,0.01415952,2.0,1.0
+165,4.0,Bonds after latest assassination of Iraqi general,0.5164151,0.47316104,0.010423821,2.0,2.0
+166,0.0,"Fidelity is about $1/$1000 (1 bond) for secondary corp.
+
+[https://www.fidelity.com/trading/commissions-margin-rates](https://www.fidelity.com/trading/commissions-margin-rates)",0.037559386,0.9076788,0.05476186,3.0,0.0
+167,1.0,"With corporate bonds, it's the spread that matters. Check recent sales and always set a limit.  Just buying at market is a sure way to get screwed.",0.7302593,0.25289562,0.016845012,3.0,0.0
+168,2.0,"Be careful of the low priced ones stealing from you on the spreads. 
+
+I use Merril/BOA. My trades are free because of how much I have in there. Their spreads are tight and they don't bother me with calls and solicitation.",0.11494901,0.6058476,0.27920333,2.0,0.0
+169,3.0,"Why do you wanna buy bonds!? Buy the bonds ETFs much cheaper and much more liquidity and diversification. Picking single bonds, and stocks for that matter is a fool’s errand!",0.31002393,0.48555392,0.20442215,1.0,0.0
+170,4.0,"Hi everyone. I've been invested in stocks for a long time, I'm interested in learning more about corporate bonds and diversifying my portfolio.
+
+From what I can find it seems e-trade has pretty low commissions for buying bonds. Who do you use? Any suggestions on very low commission fees?
+
+Thank you.",0.0056750514,0.2846949,0.70962995,3.0,1.0
+171,5.0,Which Brokerage Firms have the lowest commission to buy bonds?,0.28845122,0.6841061,0.02744256,3.0,2.0
+172,0.0,"That value is the current value of the bond if you were to try to sell it before maturity .
+
+Yes if you hold to maturity you will not ""lose"" money (opportunity cost aside) unless the issuer goes bankrupt or something.",0.17238666,0.73701304,0.090600185,6.0,0.0
+173,1.0,Only possible to get less in Europe or Japan if you hold to maturity.,0.1900209,0.70299447,0.106984615,2.0,0.0
+174,2.0,"There are less risky ways to manage capital than sovereign debt. Bonds are seen as the least amount of risk but that all depends on politics,  geopolitics, debt servicing ability, inflation and currency of the issuing sovereignty.
+
+Don't know what your duration is, but physical gold is the safest financial asset right now. It's appreciating too.
+
+Given current conditions I would own dividend stocks before bonds.",0.050753344,0.44258532,0.50666136,1.0,0.0
+175,3.0,Can you get less back from a bond than you put in?,0.440968,0.5383859,0.020645998,5.0,2.0
+176,0.0,"If negative rates are difficult to understand, you definitely shouldn't trade individual bonds.
+
+All rates are are the ratio between current value and future value. Buy a no coupon bond for $95 that matures for $100 and you're making 5.3%. Buy it for $100, you're making 0%. Now think about what happens if you pay $101.
+
+To have a negative yield, all that needs to happen is that the bond gets sold for more that what it pays on maturity.",0.4575968,0.49570265,0.0467006,1.0,0.0
+177,1.0,Head & Shoulders on 10-year?,0.055321813,0.9096893,0.03498893,0.0,2.0
+178,0.0,"I have a couple of these and just looked into it. The purchase price of the bond is one half the face value. You start earning interest on the purchase price. My particular EE bond matured 18-years from purchase. But, it still earns that interest up to 30 years. After the 30 years or whenever you cash it in, you then have to pay tax on it. I believe you can cash the bond in any time after five years.
+
+So, you can cash it in. Its up to you if you think the interest is worth the time or not. Mine are 4%, so i’m keeping them until the 30-year mark.
+
+——-edit
+I’m sure you have done this, but you can look up the current value on TreauryDirect.gov
+
+Interesting to look at the history of EE rates on that site. In 1985, you could score EE bonds at 13%!  You can also see that you can’t earn dick on bonds for the past two decades. This is the main reason why i think the market is way overvalued. There hasn’t been anywhere to put your money.",0.41772142,0.49855328,0.08372526,7.0,0.0
+179,1.0,Hello. I have series EE bonds that have been bought from me since 2003-2010. I’m unfamiliar with what to do with them like can I now cash them out. They all say that no more interest will be on my bond in 30 yrs from the purchase date. But my main question is can I cash them out now or should I wait till they stop collecting interest which will be in 2030-2040,0.3872968,0.56549203,0.047211096,3.0,1.0
+180,0.0,Hope you did it in time. Equities are getting smashed,0.27618906,0.45753023,0.26628077,1.0,0.0
+181,1.0,"Hello all. As sad as it is to admit I finally reached the age where I cannot be 100% invested in stocks... So I'm looking to add fixed income to my portfolio my IRA is currently at Schwab so I'm looking through their bond options and I see two that interest me...
+
+SWRSX: Schwab Treasury inflation protected securities index fund
+
+SWAGX: Schwab US aggregate bond index fund
+
+They both seem like great options in an IRA one tracks the entire bond market... All maturities, the other keeps up with inflation. Which should I choose?
+
+Thanks in advance for all opinions and suggestions",0.022582036,0.26347765,0.71394026,3.0,1.0
+182,2.0,Looking to fill the bond portion of my retirement account,0.014751026,0.87003285,0.115216,3.0,2.0
+183,0.0,They keep moving the exchange back. What is going on???,0.5413334,0.43038967,0.02827694,3.0,1.0
+184,1.0,Whats the deal with the Unit Corp Bond?,0.14496258,0.830517,0.024520442,3.0,2.0
+185,0.0,Yes still the case. Spreads are going crazy. Not uncommon to see 20 points on some names.,0.26779166,0.560652,0.17155625,5.0,0.0
+186,1.0,Spread products are still trading funny. And the volatility is nerve wracking. But the Fed programs are just starting to come online. I think it will help.,0.0536168,0.40008458,0.5462987,3.0,0.0
+187,2.0,"Do you have an opinion on high yield corporate bonds?
+
+I am interested in just taking only $1,000 of my portfolio and repeatedly placing it in some sort of fixed income stream, but I've read that its possible to not even get your original investment back. 
+
+How often does this occur? 
+
+Am I better off with something more secure?
+
+Where can I get the best interest rate right now with minimal risk?
+
+All questions I'd love answers to if anyone is able to provide insight. Thanks in advance.",0.08685489,0.5632169,0.3499282,3.0,0.0
+188,3.0,"IG municipals have calmed down. Not quite normal, but not like last month either. HY is still funky. And credit is going to be a big issue in the next 6 months.",0.39213136,0.48644197,0.1214267,2.0,0.0
+189,4.0,"i started buying bonds like crazy in March; the more panicked the spreads the more deals i came across. i’m staying btwn A- to BB- right now
+• Ally has a really attractive 3yr note w/ coupon 3.9%, problem w/ them is that they are daring because they have enormous exposure to auto loans
+• i did buy new issue $WFC 2yr step notes starting at 2.5% when everyone was panicked; same issuance in May now has coupon as low as 1.5%
+• Dow chemical has some good notes on Fidelity secondary trading near par; i picked up 2022 notes for 100.10 at 2.5%; new issue is 5yrs at same coupon",0.06903943,0.3778624,0.5530983,1.0,0.0
+190,5.0,"2 months into it and late to party
+Anything on munci bonds bbb grade? Any reckoning regarding default risk?",0.20136215,0.7744442,0.024193607,1.0,0.0
+191,6.0,"Is it fair to say that today, retirees may only get out of High-Yield if the economy and markets turn so bad that confidence in the health of companies selling them becomes much lower?
+
+Is it fair to say, that odds are that some of this trading of Corporate vs Government Bonds is not necessarily tied to true confidence in the economy, rather just hunting for yield in the face of a challenging economic circumstance?",0.68588877,0.29443878,0.019672435,1.0,0.0
+192,7.0,When I traded FI (days long gone) during the back half of 2007 into 2008 there was a fear of taking on inventory of any kind by FI market makers. This eventually led to the a massive credit crunch and complete illiquidity in debt markets. After the recent move by the Fed is this still the case or will MMs confidently step in to make markets if we see another down leg. Thanks in advance.,0.3229427,0.60484344,0.07221383,7.0,1.0
+193,8.0,To any current Fixed Income Traders,0.099754944,0.86270577,0.037539396,7.0,2.0
+194,0.0,"Yield is the inverse of price. They're the same thing. Think of discount notes and it should be more intuitive (lower price today means more returned on maturity). Funds track their holdings, so if bonds prices rise, so will fund prices. See TLT or EDV.
+
+If you're anticipating a rate hike, then you should consider low duration, or what I'm using, floating rate bonds. FLOT will hold investment grade bonds that yield LIBOR plus a spread.",0.069037154,0.79019,0.1407729,2.0,0.0
+195,1.0,"""Also, what happens to Treasury ETFs and Treasury Mutual Funds (both long and short) during rate hikes? ""
+
+My guess is that they will drop in price in the weeks coming to the hike as most managers will ""sniff"" that something is coming.
+
+""Finally, what is the best way to position oneself if they anticipate a rate hike and interest rate normalization?""
+
+The best way to position oneself in that situation would be to rebalance your portfolio by buying short duration bonds and selling long duration ones. Long duration bonds price would be more sensitive to a rate move and would see their prices drop more in that event.",0.24552582,0.67617375,0.078300364,1.0,0.0
+196,2.0,"Nothing happens to treasuries you hold during a rate hike, they will continue to pay the same amount of interest.
+
+Now the value will go down if you try to sell them;
+
+In way over simplified example lets say you have a $100 1 year bond paying 1%. After a year you will get $1 in interest and $100 principal back
+
+The FED raises rates and now you can buy a $100 1 year bond yielding 2%.
+
+No one is going to pay $100 for your bond if you try to sell it for $100. Why would they pay $100 for your 1% bond when they can buy a new bond for $100 that pays 2%?
+
+So your bond will continue to pay 1%, and if you hold it nothing happens . However if you want to sell it, you will have to drop the price and it will sell for $99. This now gives the buyer the same return as the new bonds
+
+If they buy a $100 year bond at 2% after 1 year they will have made $2
+
+If they buy your bond for 99 after 1 year they will get 100 back and $1 interest and made $2
+
+So if you think rates are going to go up, the best thing to do is hold short term bonds , you can keep rolling them over in 6-12 months for new bonds paying higher interest.
+
+If you think rates are going to go down the best thing to do is buy long bonds, that way you lock in your interest rate.
+
+EDIT I realize my math is a bit off but I didn't want to do the actual math",0.2914212,0.6084187,0.100160055,1.0,0.0
+197,3.0,">Conventional wisdom says that values decrease as people sell their bonds and buy newly issued bonds. 
+
+Why would investors sell old bonds and buy new ones?",0.49037698,0.47998166,0.02964137,1.0,0.0
+198,4.0,"Rate hike? But that would lead to price discovery and slightly more rational capital allocation (i.e. away from the Weworks of the world).
+
+
+Oh no no no, we can't have any of that in an election year.
+
+
+Seriously though, treasuries currently issued would drop to make their current coupon equivilant to the new rates. I don't have a calculator in front of me, but I suspect the shift would be quite substantial.
+
+
+I doubt that treasuries will lose value under the current admin from interest rate rises. QE keeps the market up, the fed is afraid of losing it's independance, so it ironically does whatever the admin says, so QE keeps going. A run on the dollar however, we'll see.",0.46492225,0.4653177,0.06976011,0.0,0.0
+199,5.0,What happens to Treasuries during a rate hike?,0.14384894,0.8309769,0.025174184,1.0,2.0
+200,0.0,"The only time that yield to worst and yield to maturity are not the same is if the bond has an embedded option.
+
+Say a bond with an embedded call (i.e. the issuer has the right but not the obligation to call the bond at par ($100) on or after the call date which is prior to maturity) is trading at a large premium, say $125. If the bond is callable at $100 tomorrow, your return if the bond were in fact called would be very negative if you bought the bond today at $125. So the yield to _worst_ at the $125 price would be ~-20% ((125 - 100) / 125). 
+
+However if the issuer decided not to call the bond (because, say interest rates are higher now then when they issued the bond and so they’d prefer to keep paying the lower coupon rather than calling, reissuing, and paying a higher coupon), your yield to _maturity_ would be the typical yield measure for a non-callable bond (i.e. the yield resulting from your return of principal and interest over the life of the bond).
+ 
+So YTW <= YTM in all cases. And if they’re equal, the bond doesn’t have an embedded option (an option free bond is called a “bullet”).
+
+While you’re close to correct in saying YTM is guaranteed, YTM assumes reinvestment of coupons at the same YTM at which the bond is purchased. So if rates go down and you have to reinvest coupons at lower yields, you would earn marginally less than the YTM at which you bought. But this is somewhat of a technicality and your statement is generally approximately accurate.",0.3004989,0.6243516,0.075149454,1.0,0.0
+201,1.0,"It just means it's trading at par, they will both fluctuate with price depending on the price of the bond, rate and spreads, credit quality, call provisions, etc",0.10558731,0.8504883,0.043924324,-1.0,0.0
+202,2.0,"If Yield to Worst and Yield to Maturity are the same, does that mean that, as long as the issuer doesn't default, the stated yield is guaranteed?",0.09036679,0.86590755,0.043725714,7.0,1.0
+203,3.0,What if Yield to Worst and Yield to Maturity are the same?,0.31619415,0.66154677,0.022259105,7.0,2.0
+204,0.0,"Like stockping you do it if you think you have an edge, especially bonds that are undervalued or trading below par with higher yields with workouts that offer higher return upon maturity. Theres also fees associated with ETfs (around 0.5% which eats into returns in a low rate world) That said, you are right if you have no edge and just want exposure. Also, index etfs can offer this in piecemeal for people without $1mm+ portfolios and each bond is traded in tens or hundred thosand increments.",0.16364306,0.6854718,0.15088508,3.0,0.0
+205,1.0,"I know a common argument about bond funds has to do with their perpetual interest rate risk. 
+
+The fund will constantly need to buy and sell bonds based on the strategy of the portfolio. As bonds come closer to maturity and “age out” of the funds strategy...the old bonds may need to be sold and new bonds purchased. Because you’re not holding to maturity, the fund likely won’t be sold at par and the new bond will be purchased with whatever the prevailing rates currently are.
+
+This is the argument I’ve seen several times, i don’t know how valid/invalid a concern it should be for the average investor - my feeling is not much of a concern.",0.4782807,0.47910088,0.04261843,3.0,0.0
+206,2.0,"If you want tax-free municipal bonds, chances are that you need to buy individual. States with lots if bonds have indexes for that state, but i’m not sure how they work. I believe Vanguard has NY and CA indexes for example.",0.18599647,0.7361507,0.07785282,1.0,0.0
+207,3.0,"If bonds are meant to be a safe investment, then it would seem rather self defeating to concentrate your holdings. Wouldn’t you want the diversification, especially given that, on the upside wherein a company does fantastic, you still get the same fixed income?",0.46369728,0.4520411,0.08426174,9.0,1.0
+208,4.0,Why do you choose to buy individual bonds rather than an index?,0.29463273,0.6837601,0.021607153,9.0,2.0
+209,0.0,"[The repo system was fairly broken for  while now.](https://www.marketwatch.com/story/the-repo-market-is-broken-and-fed-injections-are-not-a-lasting-solution-market-pros-warn-2019-12-04)
+
+
+You still need people to want to put their money into repo. If they have a fear of a short term counterparty risk, they will prefer to put their cash into treasuries over repo, but you need to be sure that someone is going to buy the things off of you at the end. Given the fed has said treasury purchases are infinite, you know there is always a buyer at a good price. The fed isn't just doing liquidity, it's also bailing out everyone who was long treasuries. The repo operation also squashed the interest rate until it was close to zero.
+
+
+People want to pretend this is a Covid only issue or covid induced financial crash. It's not. The repo market has been a mess for years now. Now the fed has added preventing a stock market drop to its unofficial list of jobs (at least this week), alongside preventing junk bond interest rates from getting high (which is kind of the point if you're a deadbeat), who knows where the job of liquidity ends and quiet bailout of irresponsible speculators begins.",0.4781696,0.45593563,0.06589487,3.0,0.0
+210,1.0,"What do you mean by ""repo operations not fully taken up by the market?""",0.36172104,0.6136935,0.024585478,1.0,0.0
+211,2.0,"In the first half of March we saw US treasury yields rise (investors sold FI assets to rebalance portfolios and to meet redemptions etc), so why were the repo operations not fully taken up by the market if liquidity was so badly needed? 
+
+I just don’t really understand what caused the illiquidity issues in the treasury market if the Fed was pumping cash through repo operations.",0.61690813,0.3594876,0.023604203,4.0,1.0
+212,3.0,US Treasury illiquidity & repo market,0.23335756,0.74041533,0.026227048,4.0,2.0
+213,0.0,"I can give you a hint on where to start! This would be a Time Value of Money question, so the first thing you need to find is the effective rate, and how much you are amortizing the discounted bond over the 4 year period.   
+
+
+You will need two different charts to help with this exercise. You will need a Present value interest factors for single cash flows and Present value interest factors for an annuity. I would recommend you speak with your professor or teacher in regards to how to use these charts if you are unfamiliar as they are necessary tools unless they expect you to calculate the factors manually. 
+
+Hints: 
+
+Matures at 10,000 but how much do you have at origination?
+
+Will the interest payments every year be different or the same?
+
+How do you account for the change in principle?",0.11409521,0.7812095,0.10469525,1.0,0.0
+214,1.0,I would write your professor and ask him about his expectations! Is he expecting you to include the discounted pricing? Or account for the discounted price? Etc,0.15227596,0.79281604,0.054907996,1.0,0.0
+215,2.0,"Seems to me the question is more about compound interest than time value of money. So, compound interest up to redemption. Basically how much is it compounding? Origination (94% of 10k) = 9400.
+
+9400 x 0.06 = 564
+
+9400 + 564 = 9964.
+
+**year 1** = 9964
+
+9964 x 0.06 = 597.84
+
+9964 + 597.84 = 10, 561.84
+
+**year 2** = 10,561.00
+
+&#x200B;
+
+|Period|Outflow|Inflow|Net|
+|:-|:-|:-|:-|
+|1|9400|564|9964|
+|2|9964|597.84|10,561.00|",0.16846415,0.7770541,0.054481763,1.0,0.0
+216,3.0,"Can anyone help me to solve this exercise please?
+
+&#x200B;
+
+* An investor plans to invest in the issued bond of enterprise X with the next characteristics:
+
+Nominal Value = 10.000€, annual interest = 6%, the redemption of the bond will be after year 4 and it will be equal to the nominal value. The bond price on purchasing day is equal to 94% of the nominal value.
+
+**Find the cash flows for each year.**",0.091022864,0.8397218,0.06925543,0.0,1.0
+217,4.0,How to find out cash flows of a bond,0.102806725,0.8570508,0.040142443,0.0,2.0
+218,0.0,In my uneducated opinion we need some creative destruction. Short term pain for long term gain. The alternative is decades of mediocrity in business.,0.7506435,0.22277242,0.026584102,4.0,0.0
+219,1.0,"Interesting play by the fed, I guess they're trying their best to mitigate the impact of the impending recession. Again haven't done too much research about it yet, but I feel like it's just an ""all options"" on the table play by Powell. We'll have to see how this turns out I suppose.",0.25617212,0.56099737,0.18283053,1.0,0.0
+220,2.0,"It's a baby step into HY. They will buy only fallen angels that were IG on Mar 22, the day before the Fed announced the program, but have since been downgraded. They'll buy HY ETFs also, but with the restrictions on ETF purchases, that won't amount to much.",0.11692684,0.70260036,0.1804728,1.0,0.0
+221,3.0,"The fed has announced that they are also bailing out companies with junk bonds by starting to include junk bonds in their buying.
+
+
+The obvious outcome is that poorly run companies will not have to pay the higher yield that incompetence or high risk entails. Ford being the classic example, since their fall was clearly on it's way into the pit prior to COVID-19.
+
+
+Any other outcomes, apart from making the Dow rise that is, which is also a major driver of this?",0.56233734,0.39631948,0.04134326,4.0,1.0
+222,4.0,"The fed has announced a Bailout of the Junk Bond Market, thoughts?",0.26458016,0.7057995,0.029620416,4.0,2.0
+223,0.0,Bills are quoted in discount yield. Notes are quoted in effective yield. You need to convert the bill yields to bond equivalent yield.,0.1287072,0.82893157,0.042361222,3.0,0.0
+224,1.0,You may need to account for the number of interest payments remaining.,0.1733675,0.80432135,0.022311116,1.0,0.0
+225,2.0,"Hey everyone, who is on the fixed income side. I had a question I was hoping you guys would be able to help me think through.
+
+So I'm looking at the Yield to Maturity from various US T-Bills one can buy (maturing over the next year) and they are all generally materially higher than the yield one can get from buying US Treasury Notes with similar maturity dates (in 2020). This happens across 2020. Why would this happen? Shouldn't the yields be pretty much the same given that the issuer credit risk is the same (US Gov), and they have similar maturities?
+
+Im comparing Tbills and Tnotes with same maturities in 2020.
+
+Thanks",0.24176887,0.650156,0.10807505,4.0,1.0
+226,3.0,Tbill vs Tnote Yield Question,0.112492144,0.8530324,0.03447544,4.0,2.0
+227,0.0,Only Deutche Bank would write an instrument that stupid.,0.89021504,0.10062447,0.009160413,6.0,0.0
+228,1.0,"Based on the mess that pandemic bonds are proving to be, I don't thing there will be a lot of bidders for exotic bonds for a little while",0.8131946,0.17701004,0.009795431,1.0,0.0
+229,2.0,What would be the implications if the bonds coupons linked with any non-economic activity like if coupons would negatively correlated with CO2 emissions by that industry?,0.6725967,0.31982845,0.0075749042,1.0,2.0
+230,0.0,"Ask Fidelity, seems unlikely that there would be zero price change over 3 days.",0.2691069,0.66401625,0.06687691,1.0,0.0
+231,0.0,"Hi,  
+
+Go to the following website:
+
+[https://www.swapsandbonds.com](https://www.swapsandbonds.com)
+
+Switch to ""Bond"" section on middle panel of the screen.  Select a tenor on the ""Quick Fixed Rate Bond Setup"" section which is on the left side of that panel and click setup or pick a bond from the list below the setup button.  Upon the setup, yield from the specified curve will be populated in the Result Section on the right side of the panel, change yield to a negative number and press Tab.  You will see Modified Duration and other sensitives on the result section as well.
+
+Thanks
+
+Mike",0.07491207,0.79339457,0.13169332,1.0,0.0
+232,1.0,Modified duration on negative yield bonds,0.121307224,0.83653057,0.04216218,4.0,2.0
+233,0.0,Emergency Situations Preparedness 19,0.1787131,0.77975017,0.04153671,0.0,2.0
+234,0.0,1 & 2 year forecasts for 10 year treasuries,0.05221966,0.8903564,0.057423975,1.0,2.0
+235,0.0,"Spreads on CRT securities have blown out, and I am trying to work out what the potential outlook would look like. 
+
+Would the Fed/agencies buy them back? Will they tighten?? I have no idea..",0.539205,0.42572874,0.03506633,2.0,1.0
+236,0.0,Hi - can someone help me walk-through marking loans?  These are amortizing loans P&I for ten years and looking to build a spreadsheet to mark the loans monthly to a index that will change monthly.,0.12081226,0.80319965,0.07598798,2.0,1.0
+237,0.0,Does anyone know where I can find information about LVMH's latest bond offering (€7.5 billion in euro bonds and the other of €1.8 billion in sterling according to a news article) that they are planning to use to fund their Tiffany acquisition?,0.02654731,0.93603265,0.037420075,3.0,1.0
+238,0.0,What are your recommended live bond prices tracking websites?,0.048419587,0.92080706,0.030773377,2.0,2.0
+239,0.0,"Get 10€ free, Just signup and play.",0.007416557,0.561587,0.43099627,1.0,2.0
+240,0.0,In what country do you live?,0.1721625,0.8006688,0.027168665,1.0,0.0
+241,1.0,"Hello there,
+
+&#x200B;
+
+I have a question about the ownership of an investment bond. Which document do you have to ask the product provider for and what information will you need to change the ownership of an investment bond?
+
+&#x200B;
+
+Many thanks",0.048754875,0.8091161,0.14212912,3.0,1.0
+242,0.0,Investment banks to under write and issue them.,0.2232517,0.74482316,0.031925134,3.0,0.0
+243,1.0,"If a private company wanted to issue a corporate bond - where or who do they go to?
+
+A local bank? An investment bank?",0.09035593,0.88821983,0.021424253,3.0,1.0
+244,0.0,Wealthsimple Trade is Canada's first $0 commission stock trading app – sign up now and we'll both get $10 to trade. https://my.wealthsimple.com/app/public/trade-referral-signup?code=KEJJ4Q WEALTHSIMPLE TRADE $10 REFERRAL CODE : USE * KEJJ4Q * - COUPON CODE - EARN CASH,0.0045460025,0.54287976,0.45257422,1.0,2.0
+245,0.0,"  
+
+It means a bond is now trading to a shorter maturity, because a call feature permits an issuer to retire or refinance a bond at a date that is prior to the stated maturity of the bond, usually at a call premium to the typical par/100 cents maturity price. The implication for the bondholder is that the convexity is limited in the bond, meaning the price upside in the bond is limited and price becomes tethered to that call premium. It also means that the company can usually refinance the bond for a lower coupon than the bond that is being replaced, which usually happens either because overall market rates have fallen materially, or because the issuer of the bond has experienced a reduction in credit risk (usually because cash flow has improved) and credit spread permitting the refinancing of the bond for a better credit spread to risk free rates and a better all-in rate. Assuming a bondholder wants to remain invested in bonds, the holder will have to redeploy those funds after the bond is taken out, and that would usually be at rates below where they were previously invested, either because the market rate has fallen, or because this issuer’s bonds or similar bonds now trade with lower rates and spreads. That’s reinvestment risk.",0.14801359,0.7227961,0.12919037,2.0,0.0
+246,1.0,Yield of the bond assuming it’s going to be called on its first call date.,0.0554739,0.8874337,0.057092424,1.0,0.0
+247,2.0,What does it mean when a bond is trading at its yield-to-call? What are the implications for bond issuers and bond holders? Thank you!,0.014286915,0.7384902,0.24722286,1.0,1.0
+248,0.0,Contact an investment bank and tell them you're interested in issuing a corporate bond for your company.,0.0070863124,0.8719629,0.120950684,1.0,0.0
+249,1.0,"Some exchanges allow bankless or bank-reduced bond placement, similar to a direct listing. Perhaps it would be smart to talk to your bank first, maybe they know something.",0.10814916,0.7924983,0.09935251,1.0,0.0
+250,2.0,"I own a business in the medical industry that generates a healthy amount of revenue 
+
+Curious what the process would look like/who I would need to contact to issue a multi-year bond against my business - who would the buyers be, what sort of rate it would be, etc. 
+
+I do not need such a large amount issued - anywhere between 50k to 250k",0.306646,0.612497,0.08085706,2.0,1.0
+251,3.0,How do I issue a bond against my business?,0.35471374,0.63363683,0.011649369,2.0,2.0
+252,0.0,"So idk how much this will help with this particular problem, but from what I’m seeing, those are two separate yield curves, not two bonds. So for each problem, you have four bonds with different coupons, prices, and maturities. So if I’m understanding this problem correctly, you calculate them all individually. I worked in fixed income for six years and never once saw this though haha",0.37922665,0.51878625,0.10198706,2.0,0.0
+253,1.0,"Look for material on bootstrapping. For instance,  [https://financetrain.com/bootstrapping-spot-rate-curve-zero-curve/](https://financetrain.com/bootstrapping-spot-rate-curve-zero-curve/)",0.12058357,0.78608114,0.09333527,1.0,0.0
+254,2.0,"Stupid question but I’m just starting studying the bond market and am a bit confused on how to price the bond. 
+
+The example I’m using is found below in the link. An explanation of either #1 or #2 is fine. 
+My confusion is that this bond, with two coupons, does not have a single coupon. I can’t calculate the price of the bond unless there’s a single coupon. 
+
+The first two maturities have a coupon rate of zero while the last two are 2.2% and a 2.4%, respectively, so technically four payment periods in total. The bond price is $100
+
+[Spot/Forward Rate Problems](http://educ.jmu.edu/~drakepp/FIN378/spot_forward_problems.pdf)
+
+I’d really appreciate the help! I’m new at this and I’ve been stuck on this for a while. Thanks",0.44311076,0.3989986,0.15789065,3.0,1.0
+255,3.0,How can I price a bond with spot rates and no single coupon?,0.29011863,0.686268,0.023613406,3.0,2.0
+256,0.0,What is the gain from this bond?,0.067058146,0.89542747,0.037514344,1.0,2.0
+257,0.0,How can I biennially compound forward rates?,0.08069229,0.87910855,0.040199094,4.0,2.0
+258,0.0,"What does “financial crisis” even mean to you?  It’s a buzzword, but previously it was the housing bubble built up on junk pricing that fell through.  Where do you see the junk? What is the crisis that is about to implode?   Overall valuations across the whole market?  What do you see.",0.65883315,0.3198414,0.02132544,7.0,0.0
+259,1.0,I always thought the return on bonds would be way way lower.,0.6783082,0.30343765,0.018254092,2.0,0.0
+260,2.0,"You can run your numbers a lot further back with a pair of funds: VFINX and VBINX. 
+
+That said, you have to look at circumstances. The market didn’t crash because VBINX outperformed. It collapses because banks and ratings agencies completely misunderstood and misstated the risks of bundles of subprime mortgages.",0.42841294,0.48005176,0.09153524,2.0,0.0
+261,3.0,"**Question**: What happened the last time, the S&P 500 outperformed a 60/40 portfolio (60% S&P 500 + 40% Long term treasury bonds) for multiple years ( backtest from the screenshot [here](https://www.portfoliovisualizer.com/backtest-portfolio?s=y&timePeriod=2&startYear=1985&firstMonth=1&endYear=2021&lastMonth=12&calendarAligned=true&includeYTD=false&initialAmount=10000&annualOperation=0&annualAdjustment=0&inflationAdjusted=true&annualPercentage=0.0&frequency=4&rebalanceType=1&absoluteDeviation=5.0&relativeDeviation=25.0&reinvestDividends=true&showYield=false&showFactors=false&factorModel=3&benchmark=-1&benchmarkSymbol=IVV&portfolioNames=true&portfolioName1=60%25+iShares+Core+S%26P+500+ETF+%28IVV%29+%2B+40%25+iShares+20%2B+Year+Treasury+Bond+ETF+%28TLT%29&portfolioName3=Portfolio+3&symbol1=TLT&allocation1_1=40&symbol2=IVV&allocation2_1=60), data since 2003)?
+
+**Answer**: We got a financial crisis (2008 crisis)!
+
+**Question**: Will we get another financial crisis since right now S&P 500 outperforms again the 60/40 portfolio?",0.34398195,0.58444244,0.07157553,1.0,0.0
+262,4.0,What website do you use to compare?,0.09754656,0.86201113,0.040442318,1.0,0.0
+263,5.0,"What happened the last time, the S&P 500 outperformed a 60/40 portfolio (60% S&P 500 + 40% Long term treasury bonds) for multiple years?",0.021203889,0.632737,0.34605908,12.0,2.0
+264,0.0,"How many individual bonds would one need to achieve decent diversification for each rating class. While the idea of owning individual bonds is good, the implementation seems fraught with difficulties and a high level of maintenance.",0.3928749,0.54163533,0.065489665,3.0,0.0
+265,1.0,"If you're concerned with that, you can buy target date corporate, municipal and high yield bond ETFs issued by Invesco's BulletShares. They hold bonds with a consistent maturity date, and in the last 3-6 months shift their holdings to Treasuries as they mature.
+
+I played around with them for a while, but ultimately, I've been put off by the low yield environment and have shifted my bond allocation to cash. Sacrificing a little yield, but not carrying interest rate risk for the time being.",0.30208835,0.6325046,0.06540705,3.0,0.0
+266,2.0,"Another issue with the 60/40 rule (or 50/50) is re-balancing. Whether it's balanced yearly, quarterly, monthly, etc., will have a big impact on returns.",0.47811502,0.49050376,0.031381182,2.0,0.0
+267,3.0,"Dated theory. These days frankly most investment advisors will subscribe their clients higher yield etfs. Unless they are top gun mega investors have tax problems, many prefer higher interest corp bond over what they practiced decades ago. Even some CDs will pay very high interest intermittently.",0.30548355,0.59606177,0.09845466,2.0,0.0
+268,4.0,"It is true that a bonds market value doesn't matter if you never sell it. On the other hand, it's coupon will never increase. 
+
+You need to look at a bond ETF like the average bond that you could have held in a bond ladder. The current yield and effective duration are what you would expect to get if you maintained a continuous bond ladder.",0.20971441,0.6834089,0.10687675,1.0,0.0
+269,5.0,"Your assumption is correct, but that’s where the management you pay for comes into play. Blk’s products have pressed up and on over a few different market cycles, by buying the bonds when they were under priced, and selling when fairly priced. It’s still an equity fund trading it’s holding with the goal of growth
+
+I hold a lot of blk products*",0.06957517,0.81767106,0.112753704,1.0,0.0
+270,6.0,"New to bonds, but I just finished reading The Bond Book by Annette Thau. It was tremendously helpful, particularly the chapter on Bond Funds vs Bonds. It got me thinking about the 40% bonds in the portfolio. I haven’t been able to find the origins on the 60/40 rule, but it seem to have originated well before Bond Funds even existed. Index funds and Bond Funds didn’t originate until 1976 and modern portfolio theory dates to 1952. This makes me think the original intention of the 60/40 rule expected investors to be purchasing individual bonds, not Bond Funds. Most everyone (myself included) are using Bond Funds for the 40% bonds. The problem with this approach is they aren’t actually Bonds, they are Funds of Bonds. This means they lose value when yields rise, and the change in value affects the value of a portfolio. If people invested in laddered bonds they wouldn’t be affected by changes in yield because they would still be receiving their coupon and would also receive the par value. Then when they purchase the next step in their ladder they would get a higher yield, so it would be a good thing. I think the use of Bond Funds have been to our advantage over the past 30-40 years, since yields have fallen much more than they’ve increased. Looking forward, yields can’t go much lower, at some point they have to head up (maybe not my lifetime, but someday.) When this starts happening people with Bond Funds are going to be crushed and people with laddered Bonds will be just fine. Is there any sense to this?",0.21430857,0.51481664,0.27087483,7.0,1.0
+271,7.0,Is everyone doing 60/40 wrong?,0.46101162,0.5217775,0.017210817,7.0,2.0
+272,0.0,I apologize for the asinine question but what happens to equities when bonds go up?,0.41759482,0.54971486,0.032690305,2.0,0.0
+273,1.0,Bonds looking like a coiled spring. 🐍 move waiting to happen?,0.023890477,0.80532163,0.17078795,7.0,2.0
+274,0.0,"I'm going to guess that your investment goals and horizon are different from your grandfather's. I'll guess he was retired and was focused on generating income and preserving principal. I'm going to guess you have a longer view of this money than he did, and you are probably willing to accept more short term volatility.
+
+With all that in mind, if I were your FA, I would advise a more balanced portfolio heavy on equities.",0.27974418,0.6267974,0.09345841,2.0,0.0
+275,1.0,"It honestly depends on how much you have in the funds and what your cost bias is. It's generally not something that you'd look at but it's going to tell you what your grandfather invested and the payout in relation to that initial investment. I don't think that reinvesting into low yield funds right now is the best move. This also depends on your investment goals as well. Your grandfather was looking for income instead of growth, whereas you most likely are looking for growth and have a higher risk tolerance because of where you are in relation to retirement. This stuff is pretty much based entirely on opinion and personal preference. I think almost everything is pretty expensive right now honestly so I really don't know what you'd move it to. I'm using VZ as a 4% yielding corporate bonds right now and selling options, that's the safest move I've come up with right now.",0.37327248,0.54371065,0.083016954,2.0,0.0
+276,2.0,"You inherited a portfolio that was appropriate for your grandfather at his age, not one that’s appropriate for you at your age. Since you’re in an IRA you don’t need to worry about cap gains. And even if you inherited stock outright, it would be stepped up on basis. I would go looking a conservative portfolio for someone your own age and risk profile and perhaps look into adjusting your allocations. Since we’re all just online, none of us is qualified to tel you what’s appropriate for you.",0.2694302,0.63928705,0.09128276,2.0,0.0
+277,3.0,"The bond market has never been as risky as it is over the last few years. Tread carefully, especially with funds, for which liquidity may not be available when you need it. What many people don't realize is that, leaving credit risk aside, bond portfolios can be as volatile as equities because rates are so low.",0.52326363,0.42591262,0.050823748,2.0,0.0
+278,4.0,"Assuming you have just inherited the money, take some time before you throw it into anything. Maybe even a one-year CD just to give yourself time to think about how you want to invest. Years ago, when I inherited some money, people talked about taking the emotions out of the process, and that is still true.
+
+There really is no rush. At this point, there is a great deal of uncertainty in the markets. Stocks seem due for a fall, but they have been ""due"" for some time now, and nothing has happened. Three weeks ago, everyone was concerned about raging inflation, but those concerns have been tamped down. Bond prices may drop, but again, they dropped a couple of weeks ago only to recover.
+
+Give yourself some time to think about who you are as an investor; how you might react to a downturn in either the stock or bond markets. A year from now, the markets will still be there -- maybe higher or maybe lower -- but give yourself some chance to think before rushing into any investment. There will be time enough for mistakes later, and you don't want this windfall to disappear.",0.39067578,0.51827604,0.091048166,2.0,0.0
+279,5.0,"Your situation is more complicated than you may know. You have an inherited IRA, which has all sorts of rules that do not apply to a regular IRA. Basically, you are required to defund the IRA over a relatively short period of time. Please check all the rules for inherited IRAs to see how they affect you.
+
+Holding stocks in your IRA is suboptimal, since stocks held in a non-IRA account have tax advantages for dividends and capital gains. Those are lost in an IRA, since all distributions are treated as regular income. This is particularly relevant to you, since you will have to defund the IRA relatively quickly.
+
+Your primary decision is whether or not to terminate the IRA immediately (or take accelerated distributions). If you are currently in a low tax bracket, it could be better to terminate the IRA immediately, rather than wait until you are in a higher tax bracket.
+
+You may want to consult a financial planner to determine what your options are and to forecast your future tax status.",0.3241425,0.5673053,0.108552255,2.0,0.0
+280,6.0,"Look into blended assets such as AOK or VWINX
+Btw, don’t just look at price charts, they’ll understate growth. Look at Total Returns. 
+Most people are very negative bonds, perfect time got them to rise. I worry about you getting whipsawed.",0.6017161,0.34849146,0.04979248,1.0,0.0
+281,7.0,"I inherited an IRA from my late grandfather, and he had it very conservatively (?) invested 100% in bond funds (VFIUX, VAIPX, and VFIJX to be exact). I’m new to all this, but I’ve been doing some reading and I’m wondering, with interest rates currently near zero and bound to eventually rise, if this portfolio may not currently be considered as “conservative” at all, perhaps even very risky. General sentiment on comment threads and forums seems to be very worried about incoming inflation, and from my reading it seems like some of these bond funds, like the intermediate-term VFIUX and the “inflation-protected” VAIPX in fact have moderate levels of interest rate sensitivity. What are your opinions (that certainly wouldn’t be construed by me as investment advice, because that would be wrong) on the safety of bond funds in the current climate; though divesting from my grandpa’s recommendations seems risky, am I wrong to think that maybe it’s actually the safer play? Sorry if this might be breaking some rules of the subreddit, I swear I’m not taking any of this as investment advice, just would like to hear some of your musings.",0.45925522,0.48975804,0.050986767,5.0,1.0
+282,8.0,Question about bond funds and the risk of inflation,0.25915506,0.7232221,0.017622808,5.0,2.0
+283,0.0,"Controversial opinion here: I don't think that corporations should pay taxes. I think that the people getting the profits from those corporations should be taxed instead. They should have an account similar to a tax-advantaged retirement savings account. They only pay taxes, when they take profits out of the account. Profits should also be adjusted for inflation/deflation.",0.4347971,0.5020154,0.06318745,6.0,0.0
+284,1.0,"It will make corporate issuers more inclined towards debt than equity, since the tax effect of deducting interest will be greater. The higher tax rate for banks will increase their appetite for tax-exempt municipal bonds.",0.04090788,0.62274283,0.33634934,2.0,0.0
+285,2.0,"Will Biden’s proposal impact investor appetite for US bonds and equities? If so, how?",0.08630368,0.87459886,0.03909744,8.0,2.0
+286,0.0,"There'll be ups and downs, but we've started into a long-term bear market for bonds.",0.54210466,0.4262381,0.031657316,2.0,0.0
+287,1.0,"Bond bears have been ravishing for 13 months. Besides flight to quality not factored in. What will CNBC run when SPY has Unprecedented 🩸bath of -5%. 😁
+TLT 💎",0.6719135,0.2922229,0.035863556,1.0,0.0
+288,2.0,"Just after some of us maybe thought the times of people buying bonds are over and thought they are a thing of the past like using horses instead of cars, the bonds are feeling long and green today!
+
+To be fair the bonds specially long term bonds got sold off quite brutally so it was about time for a rebound!
+
+Related good news for bond investors:
+
+1. ""*Treasury issued a directive that* ***prohibits U.S. financial  institutions from participation in the primary market for ruble or  non-ruble denominated bonds issued after June 14, 2021*** *by the  Central Bank of the Russian Federation, the National Wealth Fund of the  Russian Federation, or the Ministry of Finance of the Russian  Federation; and lending ruble or non-ruble denominated funds to the  Central Bank of the Russian Federation, the National Wealth Fund of the  Russian Federation, or the Ministry of Finance of the Russian  Federation. (Zerohedge)*
+2. [Overseas demand, FX hedged yields higher than local yields](https://www.nb.com/en/global/insights/nb-blog-us-treasuries-new-demand-from-overseas)
+3. ECB plans to ramp up bond buying to tackle surging yields! ([CNBC](https://www.cnbc.com/2021/03/11/ecb-decision-meeting-march-2021-rates-.html))",0.09009249,0.59429115,0.31561637,5.0,1.0
+289,3.0,"US $ Treasuries - long green candlesticks today, having a comeback?",0.0057986383,0.7594491,0.23475236,5.0,2.0
+290,0.0,"If you weren't planning on selling it early, does it matter if it loses value? If you think that inflation will be so high that selling out your bond now is worth it, then I guess its up to you.",0.40731177,0.5598279,0.03286028,3.0,0.0
+291,1.0,Buy VOO for appreciation or PTY similar risk but PTY is high income corp bond.,0.06709263,0.89166117,0.041246224,2.0,0.0
+292,2.0,Interest rates are still rising and it appears that they'll continue to do so in the coming years. The 10yr bill is no exception so the price of those bills will continue to fall. I'd sell and redeploy into something with less exposure to the federal fund rate.,0.34504387,0.5749758,0.079980314,2.0,0.0
+293,3.0,"Shorter term bonds funds will be more stable during rising interest rates. Their yield isn't as good, but they will maintain their value better and they will benefit from rising yields sooner.",0.025632905,0.3229607,0.65140635,2.0,0.0
+294,4.0,Do you have any gains you need to offset?,0.07644187,0.8960066,0.027551616,1.0,0.0
+295,5.0,"To be a contrary opinion, i actually just bought a few shares of BND and VGLT yesterday. Unwarrented invester fears (inflation, rate hikes). Raising rates isn't going to be easy on the recovery, debt, or historically expensive equities.",0.41286388,0.5073574,0.079778574,1.0,0.0
+296,6.0," Seeking input/advice on what to do if you are holding a 10 year t bill fund which is losing value rapidly? Not sure whether to hold on and wait for things to stabilize and hopefully inch back up, or abandon ship, because inflation is coming and this will keep t-bills depressed for a while. 
+
+And then, where to redeploy funds that will be more stable and hopefully rise? I invested in t bills thinking it was a safer bet since the equity market looked overbought, now I’m watching my “safe” investment lose value by the day.",0.5779684,0.37657964,0.04545192,4.0,1.0
+297,7.0,Taking a bath on 10-year t-bills. How to proceed?,0.10400651,0.8641065,0.031887006,4.0,2.0
+298,0.0,Is that the whole portfolio? Is she depending on it for income?,0.102155894,0.8776134,0.020230688,2.0,0.0
+299,1.0,"VTINX is a blended fund, so she has S&P 500 📈 at 4,000 and Bonds at the other end 📉. 
+By moving out of BND she will raise her equity allocation. So it’s a asset allocation choice. Pls see two attached charts that show asset breakdown and Total Return performance. 
+
+https://ibb.co/pvjQFnW 
+https://ibb.co/yfnXgSC",0.05112088,0.85905766,0.08982141,2.0,0.0
+300,2.0,"PLY. High yield below investment grade corp bonds. 8.5% yield. Risk is like a blue chip stock.  Many retirees wanting more income diversify into this play.
+
+PIMCO Corporate and Income Opportunity Fund",0.181073,0.6775224,0.1414046,1.0,0.0
+301,3.0,Bonds (and bond funds/etfs) are a long term investment. It isn’t the most rational move to make a change after a few weeks. Even a year or two is a short timeframe to judge returns. Take that for what it is.,0.4064472,0.52614063,0.06741211,1.0,0.0
+302,4.0,"A relative, about 75, got about $100,000 out of a CD, and bought 20,000 of BND several weeks ago, which promptly went down some. I asked for advice on Bogleheads, was steered toward VTINX, and she put the other 80,000 there and is happily settled, except she now asks if she should sell her $20,000 of BND at a small loss and move it to VTINX too.  I would say yes but I’m still in more aggressive stuff and know very little about bonds. What do the Bondheads think?",0.10570876,0.73354834,0.16074294,3.0,1.0
+303,0.0,"Be careful in the stock markets,
+
+when you think the water is safe, you see something green swimming around
+
+you wonder - what is this thing moving in the waters thats looking at me?
+
+It's a big crocodile, be careful it grows bigger every day!
+
+It is hungry and known to feed on unrealized profits and euhporia.
+
+**(The chart shows how recently a ""crocodile"" is building when you look at long term bonds vs stock market returns, stock markets outperformed and might ""snap back"" - means bonds outperform again for some time.)**",0.2456837,0.55227494,0.20204139,3.0,0.0
+304,1.0,"How does this graph look for periods of history where bond yields haven't been dropping continuously? I haven't taken much time to analyze it, but I found [this long term graph of bond vs stock yields](https://www.mymoneyblog.com/wordpress/wp-content/uploads/2018/11/bondlong1.gif) and it looks like there have been multidecade periods where stocks have outperformed bonds and that the recent correlation is not the norm?",0.097777985,0.70813054,0.19409153,1.0,0.0
+305,2.0,Something something national debt,0.37607923,0.57696843,0.046952322,1.0,0.0
+306,3.0,"Yes, the snapping sound. Bond futures up AH for no particular reason. 
+https://www.reddit.com/r/bonds/comments/mfp9q3/these_jaws_might_snap_bonds_stock/?utm_source=share&utm_medium=mweb",0.3038594,0.61527973,0.0808608,1.0,0.0
+307,4.0,"Be careful out there , there is a giant crocodile and it grew even bigger!",0.070544355,0.45753825,0.47191745,15.0,2.0
+308,0.0,"Imagine you just bought a bond at issue for $1000 (par) that pays a $50 coupon annually and matures in 20 years.  This means that interest rates when you bought your bond were 5% (interest rate will equal coupon rate).  Now imagine,  10 minutes later, some event causes interest rates to spike to  say, 10%.  
+
+Another investor now has a choice.  Buy your bond and get a 5% coupon, or buy a new issue (similarly rated, type, etc.) And get a 10% coupon.  Your bond has lost the interest of investors...no one wants to buy a 5% coupon bond for $1000 when they can take that $1000 and buy the new bond and get a 10% coupon.
+
+In order for your bond to be competitive on the secondary market, you have to lower the price you would sell your bond for...or ""discount"" it.  In this case, in order for your bond to sell, you would have to lower the price to $574.32.  If you think interest rates are going to continue to rise, you would want to sell your bond before they keep rising and lower the fair price of your bond even further.",0.52158487,0.43443346,0.043981623,4.0,0.0
+309,1.0,">The TM yields are increasing as prices decrease due to sell offs by bondholders, is that assumption correct? 
+
+That is correct. Older bonds are paying a low coupon, so you need to buy it at a discount to get a yield that matches new bonds.
+
+>Why are bond holders selling bonds, if rates are expected to increase?
+
+Existing bonds will not see a rate increase. The coupon rate is fixed for the life of the bond. If I am selling a bond with a 1% coupon it pays $1 per unit per year. When the going rate for new bonds is $2 per unit, I will have to match that yield by lowering my unit price.
+
+Bond holders are selling now because they think that rates will keep rising and it is better to take a smaller loss now than a bigger one later.",0.34800103,0.5548659,0.09713305,3.0,0.0
+310,2.0,"The reality is, while everyone in the world seems to believe we are headed for inflation due to unbelievable money printing, a few like myself now believe we are going to go through a deflationary period first to reset asset prices, bond prices, the stock market, etc. Once these bubbles deflate, then we most likely will head for the hyperinflation we all expect to see. Follow Steve Van Meter (The Bond King), and you'll start to become a believe like I did.",0.41993952,0.49537683,0.08468367,2.0,0.0
+311,3.0,"> Why are bond holders selling bonds, if rates are expected to increase?
+
+Because rates are expected to increase.",0.4012548,0.56753117,0.031214042,1.0,0.0
+312,4.0,"Hey guys, 
+
+&#x200B;
+
+So the Treasury Yields are increasing due to the positive jobs report being indicative of a rate hike sooner than later from the Fed (or a slowing down by the Fed bond purchasing). 
+
+Below is source:
+
+[https://www.marketwatch.com/story/u-s-treasury-yields-trade-steady-before-march-jobs-report-11617365036?mod=bnbh](https://www.marketwatch.com/story/u-s-treasury-yields-trade-steady-before-march-jobs-report-11617365036?mod=bnbh)
+
+&#x200B;
+
+So my questions are:
+
+The TM yields are increasing as prices decrease due to sell offs by bondholders, is that assumption correct? 
+
+Why are bond holders selling bonds, if rates are expected to increase?",0.2056131,0.6634533,0.13093352,2.0,1.0
+313,5.0,Question related to the recent yields rise,0.10306817,0.8732873,0.023644514,2.0,2.0
+314,0.0,"How much you allocate to each should be a function of your age (younger = more aggressive) and risk appetite. The investments and stocks subreddits should some guidelines. Same for the Bogleheads subreddit. I (37M) personally dump everythibg into stocks (S&P) with plans on buying Treasuries and Investment Grade bonds later in life.
+
+I don't have direct international exposure. Some say US alone is enough (ie intl stocks correlate well enough with US stocks such that it's pointless) others further divide stock exposure to US vs Intl (or Developed vs Emerging). Some level of preference there.
+
+Good luck in your investment journey",0.28797883,0.55801815,0.15400295,1.0,0.0
+315,1.0,">my assumption is that the value for treasury bills would also crash
+
+Assuming you're talking about true Treasury bills with maturities of one year or less, they wouldn't be much affected by a foreseeable spike in yields.
+
+>Given this information, what would you personally say would be the best place to have your money?
+
+There are so many factors that play into this question. How old are you? What kind of lifestyle do you have? Is anybody else dependent on your savings? What other assets do you have? What's your tolerance for price volatility? And a dozen others.",0.30774355,0.6218632,0.07039321,1.0,0.0
+316,2.0,"In theory, yields would crash unless you’re talking total us govt collapse. But realistically short term yields would fall but not by much. Especially short term T-bills because their time window is so short compared to 30-year T-bills. 
+
+
+Of course if interest rates go up and bond yields go down, the S&P and other equity markets will also fall. Bond market is vastly larger than the equity market.",0.53890777,0.4065237,0.054568447,1.0,0.0
+317,3.0,"T bonds, an ETF such as  TLT have pretty much already crashed, a 1 year decline since March 2020. SHY and BIL tracks the shorter duration T notes and T bills, their price decline will be lesser if the yields go up more. But the impact will be minimal. 
+Pls see total return charts in comparison mode on the 3 treasury etfs. Hope that helps. 
+
+https://ibb.co/J5s4tJ4
+https://ibb.co/rywVYC0",0.2621392,0.56771535,0.17014551,1.0,0.0
+318,4.0,Question About Treasury Bond Value Correlation with Treasury Bills,0.17345053,0.8035102,0.023039294,5.0,2.0
+319,0.0,"Hi, Im not sure what you mean by ""turning point""?",0.34895217,0.6223574,0.028690398,2.0,0.0
+320,1.0,"If rumors of 4th stim happen I think it would initially go down again. But who knows, perhaps the Fed would jump in if that drove the yields too high",0.22628373,0.7256536,0.048062637,2.0,0.0
+321,2.0,"Inflection point. Maybe TLT will stabilize and reverse course. The total return relative chart is horrible. But the jaws always snap back. 
+
+https://ibb.co/2gDqYT9",0.5827701,0.36367288,0.053556956,1.0,0.0
+322,3.0,TLT CSPs still working. Turning point?,0.01020209,0.736845,0.25295278,3.0,2.0
+323,0.0,Why wouldn’t you of just gone to a local bank branch ?,0.19526823,0.7698868,0.034844957,1.0,0.0
+324,1.0,We use Chase Bank. That takes 2 weeks or so. For w/d. Not popular anymore due to poor interest rates payout. Most banks will not touch them.,0.7990996,0.18151738,0.019382922,1.0,0.0
+325,2.0,I'm going to be in a similar situation to mail my paper series.  I plan to go thru registered mail.,0.08917213,0.84121346,0.069614455,1.0,0.0
+326,3.0,Hey guys so I mailed in my paper series I bond to the treasury retail services about a week ago. I was wondering if anybody knew how long it would take for them to deposit the money. I’ve been trying to find answers online but couldn’t. Thanks for any help.,0.3871423,0.5038292,0.10902847,1.0,1.0
+327,4.0,Question about paper series I bonds,0.1568821,0.8029411,0.04017693,1.0,2.0
+328,0.0,"Interesting. Why would T bills have positive correlation whereas LT Treasuries have inverse correlation? Isn't tenor the only thing that separates them? Ie, shouldn't they both be negatively correlated...?",0.40139806,0.55377704,0.04482488,2.0,0.0
+329,1.0,"LT Gov Bonds look like the way to go then, considering inflation is so low and going lower.",0.035032935,0.51195335,0.4530138,1.0,0.0
+330,2.0,Correlation of assets with US CPI since 1950,0.09854517,0.86741066,0.034044106,9.0,2.0
+331,0.0,"How do I read this? Positive means stocks fared better than bonds that year, with the scale representing the % differential? (ex Stocks returned 40% better than bonds in year x)?",0.025702043,0.45850646,0.5157915,3.0,0.0
+332,1.0,Never thought it that way. Great chart.,0.05903639,0.27013534,0.6708282,2.0,0.0
+333,2.0,US stock-bond ratio (Source: Variant Perception),0.09707623,0.8686567,0.034267113,6.0,2.0
+334,0.0,"They are sold via a dutch auction.  The treasury doesnt determine the rates,  the bidders do.",0.2531557,0.7087699,0.03807445,4.0,0.0
+335,1.0,Jerome is right. He does not control it. The market dictates it. That depends on supply and demand. Auction bidders.,0.2296234,0.7229838,0.047392733,3.0,0.0
+336,2.0,"As others have said, the winning bid determines the yield. Treasury is not supposed to issue at a discount, so after the yield is established, they set the coupon at the next highest 1/8 of a percent.",0.15368466,0.79528344,0.051031813,3.0,0.0
+337,3.0,"Quick question about new treasury bonds being printed. 
+
+If I understand correctly, the treasury has auctions where they sell new bonds. How does the treasury decide what the coupon rate on that bond being sold is? I’m assuming the bond itself is sold at increments of 100 worth of face value (e.g. the bond will pay $1000 or $10000 or whatever at expiration). 
+
+Currently the US10 yield has been flirting with levels seen before covid, I’m wondering if the treasury uses the market yield to maturity to price their coupon rate or if its based off the fed’s fund rate, which jpow has been keeping near 0",0.20139413,0.7646928,0.033913102,8.0,1.0
+338,0.0,Just curious on your play. You're thinking bonds prices will drop significantly soon?,0.16070531,0.81075495,0.028539734,2.0,0.0
+339,1.0,"I've got a TLT CSP expiring Friday, but that cash is earmarked for I Bonds, so I won't be writing any more until near the end of May.",0.30742234,0.6494705,0.043107174,2.0,0.0
+340,2.0,"&#x200B;
+
+[LQD ATM puts \[was up.55&#37;\]](https://preview.redd.it/wrqnz44f3zv61.png?width=995&format=png&auto=webp&s=8a077e682f90ef643bd64a0d0f0d9f9e6a2eaaf8)",0.18492298,0.7794618,0.035615347,4.0,1.0
+341,3.0,LQD and TLT puts seemed awkwardly priced. Wrote some more CSPs on pre FOMC yields inching up. Anyone else considering?,0.407784,0.54647166,0.04574449,4.0,2.0
+342,0.0,But if large investors used high leverage to buy shares wouldn’t that drive share prices up anyway so margin debt to market cap wouldn’t be extreme?,0.1963698,0.7379431,0.065687135,6.0,0.0
+343,1.0,"“While margin debt levels have risen substantially, the increase and the overall levels are not extreme relative to market capitalization.” Source: BCA Research",0.054880068,0.7714524,0.1736675,16.0,2.0
+344,0.0,"Can you elaborate on OECD? What is referred to zombies?
+
+&#x200B;
+
+I will search on internet as well.",0.13824038,0.82212573,0.03963392,3.0,0.0
+345,1.0,There are Zombie firms among us (source: Bank of America),0.20438987,0.7249618,0.07064831,19.0,2.0
+346,0.0,"Ive been watching TLT for the past few weeks waiting for a bottom to go in on calls. Im not convinced its here yet, what are your thoughts?",0.5227092,0.44445655,0.032834288,3.0,0.0
+347,1.0,"Theta decay doing its thing, with tailwind from bonds catching a bid. ⬆️",0.04445306,0.887545,0.06800202,1.0,0.0
+348,2.0,Bond puts slowly bleeding 🩸 CSP on. Most have turned away from TLT.,0.72332644,0.2622045,0.014469007,3.0,2.0
+349,0.0,I would argue demand pull. Cash is flush right now https://i.imgur.com/MT5S2K6.jpg,0.038038827,0.85668683,0.10527436,2.0,0.0
+350,1.0,Have to think about it. Good Q. ⬆️,0.02399898,0.3890219,0.58697915,1.0,0.0
+351,2.0,Are the effects different to an economy if it has cost push inflation vs demand pull inflation? Which type is the US experiencing now?,0.17683679,0.79666954,0.026493749,3.0,2.0
+352,0.0,"I would say yes, since the modern definition of inflation is literally the loss of purchasing power.
+
+Whether it comes from overprinting money, or loss of foreign demand for the currency, or a supply shock, any of these result in the loss of purchasing power and thus inflation.",0.52395993,0.43504193,0.040998098,3.0,0.0
+353,1.0,Is inflation the only possible way to get less purchasing power?,0.5733349,0.4116641,0.015000915,3.0,2.0
+354,0.0,"I hope someone gets back at you with an answer, I'm also interested!",0.0025209056,0.13294265,0.86453635,1.0,0.0
+355,1.0,"Hello,
+
+please recommend a good online bonds screener. Thanks.",0.008669709,0.15412956,0.8372007,2.0,1.0
+356,0.0," You want to calculate the interest on $25 at 1.68% interest per year after 5 year(s).
+
+The formula we'll use for this is the simple interest formula, or:
+
+Where:  
+
+
+* **P** is the principal amount, $25.00.  
+
+* **r** is the interest rate, 1.68% per year, or in decimal form, 1.68/100=0.0168.  
+
+* **t** is the time involved, 5....year(s) time periods.  
+
+* So, **t** is 5....year time periods.  
+
+
+To find the simple interest, we multiply 25 × 0.0168 × 5 to get that:
+
+The interest is: $2.10
+
+Usually now, the interest is added onto the principal to figure some new amount after 5 year(s),  
+or 25.00 + 2.10 = 27.10. For example:
+
+* If you borrowed the $25.00, you would now owe $27.10
+* If you loaned someone $25.00, you would now be due $27.10
+* If owned something, like a $25.00 bond, it would be worth $27.10 now.",0.17331319,0.757274,0.06941279,2.0,0.0
+357,1.0,"HI all. I am new to savings bonds, and am wondering something that is probably simple. I purchased a $25 series I savings bond at 1.68% interest. I know part of the calculated rate is variable, but I am wondering what the approx. redemption value will be in 5 years? I seriously have no idea. Thank you so much for the clarification on this.",0.29210854,0.5310855,0.17680594,2.0,1.0
+358,0.0,"Given where we were last March and some of the speculation about dire effects of the pandemic on ratings, this is amazing. The relatively benign effects on credit are a result of the relief/stimulus initiatives. They propped up companies that would have failed, and they even killed the distressed market. With all the stimulus money, the distressed companies aren't distressed any more.
+
+https://www.bloomberg.com/news/articles/2021-04-06/with-1-trillion-of-distress-gone-debt-pickers-fight-for-scraps",0.35561472,0.46059683,0.18378848,2.0,0.0
+359,1.0,Where did ratings downgrades occur between March 2020 and February 2021? (source: Moody’s),0.18021418,0.7937082,0.026077703,7.0,2.0
+360,0.0,"If you do not have that info, how can irs know. I will just estimate it and submit to irs.",0.26963562,0.6956703,0.034693994,-1.0,0.0
+361,1.0,"Hey guys, I cashed in some US savings bonds last year and I need to find info on what I cashed in for tax purposes.  Can anyone lead me in the right direction?  I tried going through my bank but all they can find are mixed cash amounts and there was so much stuff moving around cause I was buying my first house I can't identify the exact number.  Is there a way to ask the gov what you cashed in with them?",0.5296265,0.43925738,0.031116176,2.0,1.0
+362,2.0,How do I find info on the bonds I cashed in?,0.17161724,0.81121826,0.017164437,2.0,2.0
+363,0.0,"Not sure if this is the exact same thing, but look at TBC. Its a 40 or 50 year ATT 5.75% yield selling under that ticket symbol.",0.1701638,0.781163,0.04867331,1.0,0.0
+364,1.0,Why not sell ETNs (Exchange Traded Notes) untethered from roll yield?,0.2073522,0.76443857,0.028209321,3.0,2.0
+365,0.0,"Great question, I hope someone answers in detail.",0.018621469,0.22027539,0.76110315,1.0,0.0
+366,1.0,"I am trying to understand investments into leveraged bond ETF’s and the yield you would use to evaluate your investment.
+
+If you were to invest in NYSEARCA:TBT (2 times short), which has a weighted average maturity of roughly 25.8 years, would you be monitoring the on the run 30 year gov bond yield (maturity 2051)? Is there some adjustment that one makes to account for the difference in maturity between the ETF and the benchmark?
+
+I am trying to find a way to track the efficacy of the investment.
+
+Sorry, very new to all of this.",0.27377918,0.6886446,0.03757625,3.0,1.0
+367,2.0,Bond ETF’s and appropriate gov bond comparison,0.04105207,0.8638739,0.09507408,3.0,2.0
+368,0.0,Why not sell ETNs (Exchange Traded Notes) untethered from roll yield?,0.2073522,0.76443857,0.028209321,3.0,2.0
+369,0.0,"Treasury bonds - long green candlesticks today, having a comeback?",0.0061646057,0.74751836,0.24631715,1.0,2.0
+370,0.0,Why not sell ETNs (Exchange Traded Notes) untethered from roll yield?,0.2073522,0.76443857,0.028209321,1.0,2.0
+371,0.0,"Poll: You’re 15-40 and serving in a game of 🎾, you:",0.053550944,0.87176895,0.074680105,0.0,2.0
+372,0.0,"Error 72021: Coil squeeze limits reached, how do you want to continue?",0.42397296,0.5583709,0.017656032,1.0,2.0
+373,0.0,i-saving bonds looks attractive now based this calculation.,0.0030219522,0.12425135,0.8727268,3.0,2.0
+374,0.0,"Treasury bonds long and greed today, having a comeback?",0.13793518,0.78608096,0.07598383,1.0,2.0
+375,0.0,"US Treasuries - long green candlesticks today, having a comeback?",0.010352393,0.83834,0.15130757,1.0,2.0
+376,0.0,"US Treasuries - long green candlesticks today, having a comeback?",0.010352393,0.83834,0.15130757,1.0,2.0
+377,0.0,"I have a small assignment which relolves around new green German bunds and conventional US Treasury bonds , if anyone who knows about this would be willing to talk to me about it it would be greatly appreciated, thank you !",0.0020961438,0.12269316,0.8752106,5.0,2.0
